@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "\/Users\/simon\/Desktop\/Agroscope_PhD\/Writing\/Thesis\/GitHubRepos\/MaskCreationGithub\/1_CreateGeoJsonFromCSV\/ShapesRaw.geojson",
+"name": "\/Users\/simon\/Desktop\/Agroscope_PhD\/Writing\/Thesis\/GitHubRepos\/ShapeFromCSVHomographyTransform\/1_CreateGeoJsonFromCSV\/ShapesRaw.geojson",
 "features": [
 { "type": "Feature", "properties": { "Plot_seq": "1_INNOV_22", "Var": "Altigo", "row": 1, "range": 10, "Treatment": "Min", "Row_in_Field": 1, "Rep": 1, "Category": "Control", "Trial": "Innovar", "Year": "2022", "Experimental_Unit": "Innovar" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1935.565217391304486, 2466.0, 0.0 ], [ 1955.739130434782737, 2466.0, 0.0 ], [ 1955.739130434782737, 2611.6, 0.0 ], [ 1935.565217391304486, 2611.6, 0.0 ], [ 1935.565217391304486, 2466.0, 0.0 ] ] ] } },
 { "type": "Feature", "properties": { "Plot_seq": "1_Inv22", "Var": "Dagmar", "row": 1, "range": 10, "Treatment": "Treated", "Row_in_Field": 40, "Rep": 0, "Category": "Fill", "Trial": "Invite6.1", "Year": "2022", "Experimental_Unit": "Invite6.1" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -411.217391304347871, 2466.0, 0.0 ], [ -391.04347826086962, 2466.0, 0.0 ], [ -391.04347826086962, 2611.6, 0.0 ], [ -411.217391304347871, 2611.6, 0.0 ], [ -411.217391304347871, 2466.0, 0.0 ] ] ] } },

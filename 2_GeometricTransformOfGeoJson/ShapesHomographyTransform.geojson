@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "name": "/Users/simon/Desktop/Agroscope_PhD/Writing/Thesis/GitHubRepos/MaskCreationGithub/1_CreateGeoJsonFromCSV/ShapesRaw.geojson",
+    "name": "/Users/simon/Desktop/Agroscope_PhD/Writing/Thesis/GitHubRepos/ShapeFromCSVHomographyTransform/1_CreateGeoJsonFromCSV/ShapesRaw.geojson",
     "features": [
         {
             "type": "Feature",

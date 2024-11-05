@@ -4,12 +4,12 @@ import os
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv(r'/Users/simon/Desktop/Agroscope_PhD/Writing/Thesis/GitHubRepos/MaskCreationGithub/1_CreateGeoJsonFromCSV/ShapesMetadata.csv', sep=";", encoding='latin1')
+df = pd.read_csv(r'/Users/simon/Desktop/Agroscope_PhD/Writing/Thesis/GitHubRepos/ShapeFromCSVHomographyTransform/1_CreateGeoJsonFromCSV/ShapesMetadata.csv', sep=";", encoding='latin1')
 df = df.reset_index()  # make sure indexes pair with number of rows
 
 
 # File name
-outGeoJSONfn = r'/Users/simon/Desktop/Agroscope_PhD/Writing/Thesis/GitHubRepos/MaskCreationGithub/1_CreateGeoJsonFromCSV/ShapesRaw.geojson'
+outGeoJSONfn = r'/Users/simon/Desktop/Agroscope_PhD/Writing/Thesis/GitHubRepos/ShapeFromCSVHomographyTransform/1_CreateGeoJsonFromCSV/ShapesRaw.geojson'
 
 # Input Data
 width_rectan = 16
