@@ -24,3 +24,6 @@ The approach can be used to analyse thermal images that were taken during a dron
   <figcaption>Example of shape files generated from CSV.</figcaption>
 </figure>
 
+| ![Image Alt Text](Images/ShapesRawQgis.png) | ![Image Alt Text](Images/ShapesRawQgis.png) |
+|---------------------------------------|---------------------------------------|
+| *Caption 1*                           | *Caption 2*                           |
