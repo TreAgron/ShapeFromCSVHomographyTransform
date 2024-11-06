@@ -12,7 +12,7 @@ df = df.reset_index()  # make sure indexes pair with number of rows
 
 
 # File name
-outGeoJSONfn = r'/Users/simon/Desktop/Agroscope_PhD/Writing/Thesis/GitHubRepos/ShapeFromCSVHomographyTransform/3_GeometricTransformOfGeoJsonDefinedCRS/Innov_21_LV95.geojson'
+outGeoJSONfn = r'/Users/simon/Desktop/Agroscope_PhD/Writing/Thesis/GitHubRepos/ShapeFromCSVHomographyTransform/3_GeometricTransformOfGeoJsonDefinedCRS/ShapesRawDefinedCRS.geojson'
 
 
 
@@ -44,6 +44,7 @@ base_shape = np.array([
     [0, hight_rectan],
     [0, 0]])
 
+# https://gist.github.com/Socret360/bcefb0f95cfc20800ea3409f40b8bb58
 def get_homography_matrix(source, destination):
     """ Calculates the entries of the Homography matrix between two sets of matching points.
     Args
@@ -77,7 +78,7 @@ def get_homography_matrix(source, destination):
 
 # create fields
 idField = ogr.FieldDefn('Plot_seq', ogr.OFTString)
-varField = ogr.FieldDefn('Var', ogr.OFTString)
+genField = ogr.FieldDefn('Genotype', ogr.OFTString)
 rowField = ogr.FieldDefn('row', ogr.OFTInteger)
 rangeField = ogr.FieldDefn('range', ogr.OFTInteger)
 treatmentField = ogr.FieldDefn('Treatment', ogr.OFTString)
@@ -86,7 +87,6 @@ repField = ogr.FieldDefn('Rep', ogr.OFTInteger)
 categoryField = ogr.FieldDefn('Category', ogr.OFTString)
 trialField = ogr.FieldDefn('Trial', ogr.OFTString)
 yearField = ogr.FieldDefn('Year', ogr.OFTString)
-EUField = ogr.FieldDefn('Experimental_Unit', ogr.OFTString)
 
 
 # Create the output shapefile
@@ -97,7 +97,7 @@ outDataSource = GeoJSONDriver.CreateDataSource(outGeoJSONfn)
 outLayer = outDataSource.CreateLayer(outGeoJSONfn, geom_type=ogr.wkbPoint)
 
 outLayer.CreateField(idField)
-outLayer.CreateField(varField)
+outLayer.CreateField(genField)
 outLayer.CreateField(rowField)
 outLayer.CreateField(rangeField)
 outLayer.CreateField(treatmentField)
@@ -106,11 +106,10 @@ outLayer.CreateField(repField)
 outLayer.CreateField(categoryField)
 outLayer.CreateField(trialField)
 outLayer.CreateField(yearField)
-outLayer.CreateField(EUField)
 
 
 idField = ogr.FieldDefn('Plot_seq', ogr.OFTString)
-varField = ogr.FieldDefn('Var', ogr.OFTString)
+genField = ogr.FieldDefn('Genotype', ogr.OFTString)
 rowField = ogr.FieldDefn('row', ogr.OFTInteger)
 rangeField = ogr.FieldDefn('range', ogr.OFTInteger)
 treatmentField = ogr.FieldDefn('Treatment', ogr.OFTString)
@@ -119,14 +118,13 @@ repField = ogr.FieldDefn('Rep', ogr.OFTInteger)
 categoryField = ogr.FieldDefn('Category', ogr.OFTString)
 trialField = ogr.FieldDefn('Trial', ogr.OFTString)
 yearField = ogr.FieldDefn('Year', ogr.OFTString)
-EUField = ogr.FieldDefn('Experimental_Unit', ogr.OFTString)
 
 
 
 
 for index, row in df.iterrows():
-    print(row['Plot_seq'], row['Var'], row['Row'], row['Range'], row['Treatment'], row['Row_in_Field'], row['Rep'], row['Category'],
-          row['Trial'], row['Year'], row['Experimental_Unit'])
+    print(row['Plot_seq'], row['Genotype'], row['Row'], row['Range'], row['Treatment'], row['Row_in_Field'], row['Rep'], row['Category'],
+          row['Trial'], row['Year'])
 
 
     x_internal = [x_intersept + ((width_rectan + spacing_width) * (int(row['Row_in_Field'])-1)) + cord[0] + lon_offset for cord in base_shape]
@@ -152,7 +150,7 @@ for index, row in df.iterrows():
     outFeature = ogr.Feature(featureDefn)
     outFeature.SetGeometry(polygon)
     outFeature.SetField('Plot_seq', row['Plot_seq'])
-    outFeature.SetField('Var', row['Var'])
+    outFeature.SetField('Genotype', row['Genotype'])
     outFeature.SetField('row', row['Row'])
     outFeature.SetField('range', row['Range'])
     outFeature.SetField('Treatment', row['Treatment'])
@@ -161,7 +159,6 @@ for index, row in df.iterrows():
     outFeature.SetField('Category', row['Category'])
     outFeature.SetField('Trial', row['Trial'])
     outFeature.SetField('Year', row['Year'])
-    outFeature.SetField('Experimental_Unit', row['Experimental_Unit'])
 
 
 

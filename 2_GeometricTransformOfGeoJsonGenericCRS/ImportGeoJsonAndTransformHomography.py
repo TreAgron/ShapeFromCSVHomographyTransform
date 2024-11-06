@@ -10,9 +10,9 @@ import json
 # bothering about the CRS (which is useful when working on images).
 
 
-path = r'/Users/simon/Desktop/Agroscope_PhD/Writing/Thesis/GitHubRepos/ShapeFromCSVHomographyTransform/1_CreateGeoJsonFromCSV/ShapesRaw.geojson'
+path = r'/Users/simon/Desktop/Agroscope_PhD/Writing/Thesis/GitHubRepos/ShapeFromCSVHomographyTransform/1_CreateGeoJsonFromCSV/ShapesRawGenericCRS.geojson'
 
-output_path = r'/Users/simon/Desktop/Agroscope_PhD/Writing/Thesis/GitHubRepos/ShapeFromCSVHomographyTransform/2_GeometricTransformOfGeoJson/ShapesHomographyTransform.geojson'
+output_path = r'/Users/simon/Desktop/Agroscope_PhD/Writing/Thesis/GitHubRepos/ShapeFromCSVHomographyTransform/2_GeometricTransformOfGeoJsonGenericCRS/ShapesHomographyTransform.geojson'
 
 # Order of coordinates is X and Y
 

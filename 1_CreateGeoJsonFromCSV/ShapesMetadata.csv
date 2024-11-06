@@ -1,601 +1,601 @@
-Plot_seq;Var;Seed_ID;Row;Range;Treatment;Row_in_Field;Rep;Category;Trial;Year;Full_rank;Experimental_Unit
-1_INNOV_22;Altigo;64;1;10;Min;1;1;Control;Innovar;2022;TRUE;Innovar
-1_Inv22;Dagmar;30;1;10;Treated;40;rep1;Fill;Invite6.1;2022;TRUE;Invite6.1
-10_INNOV_22;Montalto;82;1;1;Min;1;1;Site specific;Innovar;2022;TRUE;Innovar
-10_Inv22;Montalbano;34;1;1;Treated;40;rep3;Fill;Invite6.1;2022;TRUE;Invite6.1
-100_INNOV_22;Sahara;86;10;10;Min;13;2;Site specific;Innovar;2022;TRUE;Innovar
-101_INNOV_22;KWS Trinity;77;11;10;Min;14;2;Maritime North;Innovar;2022;TRUE;Innovar
-102_INNOV_22;Nogal;93;11;9;Min;14;2;Control;Innovar;2022;TRUE;Innovar
-103_INNOV_22;Montalbano;81;11;8;Min;14;2;Maritime North;Innovar;2022;TRUE;Innovar
-104_INNOV_22;Montalto;82;11;7;Min;14;2;Site specific;Innovar;2022;TRUE;Innovar
-105_INNOV_22;Cosmic;70;11;6;Min;14;2;Control;Innovar;2022;TRUE;Innovar
-106_INNOV_22;Baretta;65;11;5;Min;14;2;Site specific;Innovar;2022;TRUE;Innovar
-107_INNOV_22;GK Szilard;74;11;4;Min;14;2;Control;Innovar;2022;TRUE;Innovar
-108_INNOV_22;Cougar;72;11;3;Min;14;2;Site specific;Innovar;2022;TRUE;Innovar
-109_INNOV_22;CH-Claro;69;11;2;Min;14;2;Site specific;Innovar;2022;TRUE;Innovar
-11_INNOV_22;Wiwa;92;2;1;Min;2;1;Site specific;Innovar;2022;TRUE;Innovar
-11_Inv22;Nogal;36;1;0;Treated;40;rep3;Fill;Invite6.1;2022;TRUE;Invite6.1
-110_INNOV_22;Grafton;75;11;1;Min;14;2;Maritime North;Innovar;2022;TRUE;Innovar
-111_INNOV_22;Runal;85;12;1;Min;15;2;Site specific;Innovar;2022;TRUE;Innovar
-112_INNOV_22;Evolution;73;12;2;Min;15;2;Maritime North;Innovar;2022;TRUE;Innovar
-113_INNOV_22;Skagen;89;12;3;Min;15;2;Control;Innovar;2022;TRUE;Innovar
-114_INNOV_22;Skyfall;90;12;4;Min;15;2;Control;Innovar;2022;TRUE;Innovar
-115_INNOV_22;LG Skyscraper;78;12;5;Min;15;2;Maritime North;Innovar;2022;TRUE;Innovar
-116_INNOV_22;Poncione;83;12;6;Min;15;2;Site specific;Innovar;2022;TRUE;Innovar
-117_INNOV_22;Wiwa;92;12;7;Min;15;2;Site specific;Innovar;2022;TRUE;Innovar
-118_INNOV_22;Simano;88;12;8;Min;15;2;Site specific;Innovar;2022;TRUE;Innovar
-119_INNOV_22;LG Sundance;79;12;9;Min;15;2;Maritime North;Innovar;2022;TRUE;Innovar
-12_INNOV_22;Shabras;87;2;2;Min;2;1;Maritime North;Innovar;2022;TRUE;Innovar
-12_Inv22;LG Absalon;33;1;-1;Treated;40;rep3;Fill;Invite6.1;2022;FALSE;Invite6.1
-120_INNOV_22;Altigo;64;12;10;Min;15;2;Control;Innovar;2022;TRUE;Innovar
-121_INNOV_22;Nogal;93;13;10;Opt;17;2;Control;Innovar;2022;TRUE;Innovar
-122_INNOV_22;CH-Claro;69;13;9;Opt;17;2;Site specific;Innovar;2022;TRUE;Innovar
-123_INNOV_22;Cosmic;70;13;8;Opt;17;2;Control;Innovar;2022;TRUE;Innovar
-124_INNOV_22;Montalto;82;13;7;Opt;17;2;Site specific;Innovar;2022;TRUE;Innovar
-125_INNOV_22;Wiwa;92;13;6;Opt;17;2;Site specific;Innovar;2022;TRUE;Innovar
-126_INNOV_22;Titlis;91;13;5;Opt;17;2;Site specific;Innovar;2022;TRUE;Innovar
-127_INNOV_22;Montalbano;81;13;4;Opt;17;2;Maritime North;Innovar;2022;TRUE;Innovar
-128_INNOV_22;Costello;71;13;3;Opt;17;2;Control;Innovar;2022;TRUE;Innovar
-129_INNOV_22;KWS Trinity;77;13;2;Opt;17;2;Maritime North;Innovar;2022;TRUE;Innovar
-13_INNOV_22;Grafton;75;2;3;Min;2;1;Maritime North;Innovar;2022;TRUE;Innovar
-13_Inv22;Tenor;39;2;-1;Treated;41;rep3;Fill;Invite6.1;2022;FALSE;Invite6.1
-130_INNOV_22;CH Nara;67;13;1;Opt;17;2;Maritime North;Innovar;2022;TRUE;Innovar
-131_INNOV_22;LG Skyscraper;78;14;1;Opt;18;2;Maritime North;Innovar;2022;TRUE;Innovar
-132_INNOV_22;KWS Extase;76;14;2;Opt;18;2;Maritime North;Innovar;2022;TRUE;Innovar
-133_INNOV_22;Simano;88;14;3;Opt;18;2;Site specific;Innovar;2022;TRUE;Innovar
-134_INNOV_22;RGT Reform;84;14;4;Opt;18;2;Maritime North;Innovar;2022;TRUE;Innovar
-135_INNOV_22;Skagen;89;14;5;Opt;18;2;Control;Innovar;2022;TRUE;Innovar
-136_INNOV_22;Poncione;83;14;6;Opt;18;2;Site specific;Innovar;2022;TRUE;Innovar
-137_INNOV_22;Grafton;75;14;7;Opt;18;2;Maritime North;Innovar;2022;TRUE;Innovar
-138_INNOV_22;LG Sundance;79;14;8;Opt;18;2;Maritime North;Innovar;2022;TRUE;Innovar
-139_INNOV_22;Altigo;64;14;9;Opt;18;2;Control;Innovar;2022;TRUE;Innovar
-14_INNOV_22;Montalbano;81;2;4;Min;2;1;Maritime North;Innovar;2022;TRUE;Innovar
-14_Inv22;Costello;29;2;0;Treated;41;rep3;Fill;Invite6.1;2022;TRUE;Invite6.1
-140_INNOV_22;Baretta;65;14;10;Opt;18;2;Site specific;Innovar;2022;TRUE;Innovar
-141_INNOV_22;Evolution;73;15;10;Opt;19;2;Maritime North;Innovar;2022;TRUE;Innovar
-142_INNOV_22;Molinera;80;15;9;Opt;19;2;Site specific;Innovar;2022;TRUE;Innovar
-143_INNOV_22;Bologna;66;15;8;Opt;19;2;Control;Innovar;2022;TRUE;Innovar
-144_INNOV_22;Runal;85;15;7;Opt;19;2;Site specific;Innovar;2022;TRUE;Innovar
-145_INNOV_22;GK Szilard;74;15;6;Opt;19;2;Control;Innovar;2022;TRUE;Innovar
-146_INNOV_22;Cougar;72;15;5;Opt;19;2;Site specific;Innovar;2022;TRUE;Innovar
-147_INNOV_22;CH-Camedo;68;15;4;Opt;19;2;Site specific;Innovar;2022;TRUE;Innovar
-148_INNOV_22;Skyfall;90;15;3;Opt;19;2;Control;Innovar;2022;TRUE;Innovar
-149_INNOV_22;Sahara;86;15;2;Opt;19;2;Site specific;Innovar;2022;TRUE;Innovar
-15_INNOV_22;Nogal;93;2;5;Min;2;1;Control;Innovar;2022;TRUE;Innovar
-15_Inv22;Bologna;27;2;1;Treated;41;rep3;Fill;Invite6.1;2022;TRUE;Invite6.1
-150_INNOV_22;Shabras;87;15;1;Opt;19;2;Maritime North;Innovar;2022;TRUE;Innovar
-151_INNOV_22;Wiwa;92;16;1;Ful;21;2;Site specific;Innovar;2022;TRUE;Innovar
-152_INNOV_22;KWS Trinity;77;16;2;Ful;21;2;Maritime North;Innovar;2022;TRUE;Innovar
-153_INNOV_22;Costello;71;16;3;Ful;21;2;Control;Innovar;2022;TRUE;Innovar
-154_INNOV_22;CH-Camedo;68;16;4;Ful;21;2;Site specific;Innovar;2022;TRUE;Innovar
-155_INNOV_22;GK Szilard;74;16;5;Ful;21;2;Control;Innovar;2022;TRUE;Innovar
-156_INNOV_22;KWS Extase;76;16;6;Ful;21;2;Maritime North;Innovar;2022;TRUE;Innovar
-157_INNOV_22;Simano;88;16;7;Ful;21;2;Site specific;Innovar;2022;TRUE;Innovar
-158_INNOV_22;CH-Claro;69;16;8;Ful;21;2;Site specific;Innovar;2022;TRUE;Innovar
-159_INNOV_22;LG Sundance;79;16;9;Ful;21;2;Maritime North;Innovar;2022;TRUE;Innovar
-16_INNOV_22;Baretta;65;2;6;Min;2;1;Site specific;Innovar;2022;TRUE;Innovar
-16_Inv22;RGT Reform ;37;2;2;Treated;41;rep3;Fill;Invite6.1;2022;TRUE;Invite6.1
-160_INNOV_22;Montalbano;81;16;10;Ful;21;2;Maritime North;Innovar;2022;TRUE;Innovar
-161_INNOV_22;Cougar;72;17;10;Ful;22;2;Site specific;Innovar;2022;TRUE;Innovar
-162_INNOV_22;Skyfall;90;17;9;Ful;22;2;Control;Innovar;2022;TRUE;Innovar
-163_INNOV_22;Grafton;75;17;8;Ful;22;2;Maritime North;Innovar;2022;TRUE;Innovar
-164_INNOV_22;Altigo;64;17;7;Ful;22;2;Control;Innovar;2022;TRUE;Innovar
-165_INNOV_22;LG Skyscraper;78;17;6;Ful;22;2;Maritime North;Innovar;2022;TRUE;Innovar
-166_INNOV_22;Shabras;87;17;5;Ful;22;2;Maritime North;Innovar;2022;TRUE;Innovar
-167_INNOV_22;Montalto;82;17;4;Ful;22;2;Site specific;Innovar;2022;TRUE;Innovar
-168_INNOV_22;Sahara;86;17;3;Ful;22;2;Site specific;Innovar;2022;TRUE;Innovar
-169_INNOV_22;Bologna;66;17;2;Ful;22;2;Control;Innovar;2022;TRUE;Innovar
-17_INNOV_22;KWS Extase;76;2;7;Min;2;1;Maritime North;Innovar;2022;TRUE;Innovar
-17_Inv22;GK Szil˜rd;31;2;3;Treated;41;rep2;Fill;Invite6.1;2022;TRUE;Invite6.1
-170_INNOV_22;CH Nara;67;17;1;Ful;22;2;Maritime North;Innovar;2022;TRUE;Innovar
-171_INNOV_22;Cosmic;70;18;1;Ful;23;2;Control;Innovar;2022;TRUE;Innovar
-172_INNOV_22;Evolution;73;18;2;Ful;23;2;Maritime North;Innovar;2022;TRUE;Innovar
-173_INNOV_22;Molinera;80;18;3;Ful;23;2;Site specific;Innovar;2022;TRUE;Innovar
-174_INNOV_22;Nogal;93;18;4;Ful;23;2;Control;Innovar;2022;TRUE;Innovar
-175_INNOV_22;Runal;85;18;5;Ful;23;2;Site specific;Innovar;2022;TRUE;Innovar
-176_INNOV_22;RGT Reform;84;18;6;Ful;23;2;Maritime North;Innovar;2022;TRUE;Innovar
-177_INNOV_22;Poncione;83;18;7;Ful;23;2;Site specific;Innovar;2022;TRUE;Innovar
-178_INNOV_22;Baretta;65;18;8;Ful;23;2;Site specific;Innovar;2022;TRUE;Innovar
-179_INNOV_22;Skagen;89;18;9;Ful;23;2;Control;Innovar;2022;TRUE;Innovar
-18_INNOV_22;Poncione;83;2;8;Min;2;1;Site specific;Innovar;2022;TRUE;Innovar
-18_Inv22;Dagmar;30;2;4;Treated;41;rep2;Fill;Invite6.1;2022;TRUE;Invite6.1
-180_INNOV_22;Titlis;91;18;10;Ful;23;2;Site specific;Innovar;2022;TRUE;Innovar
-181_INNOV_22;Costello;71;19;10;Opt;25;3;Control;Innovar;2022;TRUE;Innovar
-182_INNOV_22;Montalbano;81;19;9;Opt;25;3;Maritime North;Innovar;2022;TRUE;Innovar
-183_INNOV_22;GK Szilard;74;19;8;Opt;25;3;Control;Innovar;2022;TRUE;Innovar
-184_INNOV_22;CH Nara;67;19;7;Opt;25;3;Maritime North;Innovar;2022;TRUE;Innovar
-185_INNOV_22;Shabras;87;19;6;Opt;25;3;Maritime North;Innovar;2022;TRUE;Innovar
-186_INNOV_22;Altigo;64;19;5;Opt;25;3;Control;Innovar;2022;TRUE;Innovar
-187_INNOV_22;LG Skyscraper;78;19;4;Opt;25;3;Maritime North;Innovar;2022;TRUE;Innovar
-188_INNOV_22;Molinera;80;19;3;Opt;25;3;Site specific;Innovar;2022;TRUE;Innovar
-189_INNOV_22;Grafton;75;19;2;Opt;25;3;Maritime North;Innovar;2022;TRUE;Innovar
-19_INNOV_22;Skyfall;90;2;9;Min;2;1;Control;Innovar;2022;TRUE;Innovar
-19_Inv22;Montalbano;34;2;5;Treated;41;rep2;Fill;Invite6.1;2022;TRUE;Invite6.1
-190_INNOV_22;Poncione;83;19;1;Opt;25;3;Site specific;Innovar;2022;TRUE;Innovar
-191_INNOV_22;Simano;88;20;1;Opt;26;3;Site specific;Innovar;2022;TRUE;Innovar
-192_INNOV_22;Skyfall;90;20;2;Opt;26;3;Control;Innovar;2022;TRUE;Innovar
-193_INNOV_22;CH-Claro;69;20;3;Opt;26;3;Site specific;Innovar;2022;TRUE;Innovar
-194_INNOV_22;Titlis;91;20;4;Opt;26;3;Site specific;Innovar;2022;TRUE;Innovar
-195_INNOV_22;Nogal;93;20;5;Opt;26;3;Control;Innovar;2022;TRUE;Innovar
-196_INNOV_22;Sahara;86;20;6;Opt;26;3;Site specific;Innovar;2022;TRUE;Innovar
-197_INNOV_22;RGT Reform;84;20;7;Opt;26;3;Maritime North;Innovar;2022;TRUE;Innovar
-198_INNOV_22;Bologna;66;20;8;Opt;26;3;Control;Innovar;2022;TRUE;Innovar
-199_INNOV_22;CH-Camedo;68;20;9;Opt;26;3;Site specific;Innovar;2022;TRUE;Innovar
-2_INNOV_22;Sahara;86;1;9;Min;1;1;Site specific;Innovar;2022;TRUE;Innovar
-2_Inv22;Costello;29;1;9;Treated;40;rep1;Fill;Invite6.1;2022;TRUE;Invite6.1
-20_INNOV_22;Molinera;80;2;10;Min;2;1;Site specific;Innovar;2022;TRUE;Innovar
-20_Inv22;Aurelius;25;2;6;Treated;41;rep2;Fill;Invite6.1;2022;TRUE;Invite6.1
-200_INNOV_22;Evolution;73;20;10;Opt;26;3;Maritime North;Innovar;2022;TRUE;Innovar
-201_INNOV_22;Montalto;82;21;10;Opt;27;3;Site specific;Innovar;2022;TRUE;Innovar
-202_INNOV_22;Cougar;72;21;9;Opt;27;3;Site specific;Innovar;2022;TRUE;Innovar
-203_INNOV_22;Skagen;89;21;8;Opt;27;3;Control;Innovar;2022;TRUE;Innovar
-204_INNOV_22;Baretta;65;21;7;Opt;27;3;Site specific;Innovar;2022;TRUE;Innovar
-205_INNOV_22;LG Sundance;79;21;6;Opt;27;3;Maritime North;Innovar;2022;TRUE;Innovar
-206_INNOV_22;Cosmic;70;21;5;Opt;27;3;Control;Innovar;2022;TRUE;Innovar
-207_INNOV_22;KWS Extase;76;21;4;Opt;27;3;Maritime North;Innovar;2022;TRUE;Innovar
-208_INNOV_22;Wiwa;92;21;3;Opt;27;3;Site specific;Innovar;2022;TRUE;Innovar
-209_INNOV_22;KWS Trinity;77;21;2;Opt;27;3;Maritime North;Innovar;2022;TRUE;Innovar
-21_INNOV_22;RGT Reform;84;3;10;Min;3;1;Maritime North;Innovar;2022;TRUE;Innovar
-21_Inv22;Mv Nador;35;2;7;Treated;41;rep1;Fill;Invite6.1;2022;TRUE;Invite6.1
-210_INNOV_22;Runal;85;21;1;Opt;27;3;Site specific;Innovar;2022;TRUE;Innovar
-211_INNOV_22;Skyfall;90;22;1;Ful;29;3;Control;Innovar;2022;TRUE;Innovar
-212_INNOV_22;RGT Reform;84;22;2;Ful;29;3;Maritime North;Innovar;2022;TRUE;Innovar
-213_INNOV_22;Evolution;73;22;3;Ful;29;3;Maritime North;Innovar;2022;TRUE;Innovar
-214_INNOV_22;Titlis;91;22;4;Ful;29;3;Site specific;Innovar;2022;TRUE;Innovar
-215_INNOV_22;Costello;71;22;5;Ful;29;3;Control;Innovar;2022;TRUE;Innovar
-216_INNOV_22;Wiwa;92;22;6;Ful;29;3;Site specific;Innovar;2022;TRUE;Innovar
-217_INNOV_22;Grafton;75;22;7;Ful;29;3;Maritime North;Innovar;2022;TRUE;Innovar
-218_INNOV_22;CH-Claro;69;22;8;Ful;29;3;Site specific;Innovar;2022;TRUE;Innovar
-219_INNOV_22;Montalto;82;22;9;Ful;29;3;Site specific;Innovar;2022;TRUE;Innovar
-22_INNOV_22;Simano;88;3;9;Min;3;1;Site specific;Innovar;2022;TRUE;Innovar
-22_Inv22;RGT Reform ;37;2;8;Treated;41;rep1;Fill;Invite6.1;2022;TRUE;Invite6.1
-220_INNOV_22;Altigo;64;22;10;Ful;29;3;Control;Innovar;2022;TRUE;Innovar
-221_INNOV_22;KWS Trinity;77;23;10;Ful;30;3;Maritime North;Innovar;2022;TRUE;Innovar
-222_INNOV_22;Shabras;87;23;9;Ful;30;3;Maritime North;Innovar;2022;TRUE;Innovar
-223_INNOV_22;Baretta;65;23;8;Ful;30;3;Site specific;Innovar;2022;TRUE;Innovar
-224_INNOV_22;Skagen;89;23;7;Ful;30;3;Control;Innovar;2022;TRUE;Innovar
-225_INNOV_22;Poncione;83;23;6;Ful;30;3;Site specific;Innovar;2022;TRUE;Innovar
-226_INNOV_22;GK Szilard;74;23;5;Ful;30;3;Control;Innovar;2022;TRUE;Innovar
-227_INNOV_22;Nogal;93;23;4;Ful;30;3;Control;Innovar;2022;TRUE;Innovar
-228_INNOV_22;CH-Camedo;68;23;3;Ful;30;3;Site specific;Innovar;2022;TRUE;Innovar
-229_INNOV_22;Cougar;72;23;2;Ful;30;3;Site specific;Innovar;2022;TRUE;Innovar
-23_INNOV_22;LG Skyscraper;78;3;8;Min;3;1;Maritime North;Innovar;2022;TRUE;Innovar
-23_Inv22;Aurelius;25;2;9;Treated;41;rep1;Fill;Invite6.1;2022;TRUE;Invite6.1
-230_INNOV_22;Cosmic;70;23;1;Ful;30;3;Control;Innovar;2022;TRUE;Innovar
-231_INNOV_22;Simano;88;24;1;Ful;31;3;Site specific;Innovar;2022;TRUE;Innovar
-232_INNOV_22;Molinera;80;24;2;Ful;31;3;Site specific;Innovar;2022;TRUE;Innovar
-233_INNOV_22;Montalbano;81;24;3;Ful;31;3;Maritime North;Innovar;2022;TRUE;Innovar
-234_INNOV_22;Bologna;66;24;4;Ful;31;3;Control;Innovar;2022;TRUE;Innovar
-235_INNOV_22;LG Sundance;79;24;5;Ful;31;3;Maritime North;Innovar;2022;TRUE;Innovar
-236_INNOV_22;LG Skyscraper;78;24;6;Ful;31;3;Maritime North;Innovar;2022;TRUE;Innovar
-237_INNOV_22;KWS Extase;76;24;7;Ful;31;3;Maritime North;Innovar;2022;TRUE;Innovar
-238_INNOV_22;CH Nara;67;24;8;Ful;31;3;Maritime North;Innovar;2022;TRUE;Innovar
-239_INNOV_22;Runal;85;24;9;Ful;31;3;Site specific;Innovar;2022;TRUE;Innovar
-24_INNOV_22;Skagen;89;3;7;Min;3;1;Control;Innovar;2022;TRUE;Innovar
-24_Inv22;Chevignon;28;2;10;Treated;41;rep1;Fill;Invite6.1;2022;TRUE;Invite6.1
-240_INNOV_22;Sahara;86;24;10;Ful;31;3;Site specific;Innovar;2022;TRUE;Innovar
-241_INNOV_22;Sahara;86;25;10;Min;33;3;Site specific;Innovar;2022;TRUE;Innovar
-242_INNOV_22;Poncione;83;25;9;Min;33;3;Site specific;Innovar;2022;TRUE;Innovar
-243_INNOV_22;Costello;71;25;8;Min;33;3;Control;Innovar;2022;TRUE;Innovar
-244_INNOV_22;Simano;88;25;7;Min;33;3;Site specific;Innovar;2022;TRUE;Innovar
-245_INNOV_22;Evolution;73;25;6;Min;33;3;Maritime North;Innovar;2022;TRUE;Innovar
-246_INNOV_22;Montalto;82;25;5;Min;33;3;Site specific;Innovar;2022;TRUE;Innovar
-247_INNOV_22;Shabras;87;25;4;Min;33;3;Maritime North;Innovar;2022;TRUE;Innovar
-248_INNOV_22;Baretta;65;25;3;Min;33;3;Site specific;Innovar;2022;TRUE;Innovar
-249_INNOV_22;CH-Camedo;68;25;2;Min;33;3;Site specific;Innovar;2022;TRUE;Innovar
-25_INNOV_22;CH Nara;67;3;6;Min;3;1;Maritime North;Innovar;2022;TRUE;Innovar
-25_Inv22;Julie;32;3;10;Treated;42;rep1;Fill;Invite6.1;2022;TRUE;Invite6.1
-250_INNOV_22;Altigo;64;25;1;Min;33;3;Control;Innovar;2022;TRUE;Innovar
-251_INNOV_22;KWS Trinity;77;26;1;Min;34;3;Maritime North;Innovar;2022;TRUE;Innovar
-252_INNOV_22;Grafton;75;26;2;Min;34;3;Maritime North;Innovar;2022;TRUE;Innovar
-253_INNOV_22;Cougar;72;26;3;Min;34;3;Site specific;Innovar;2022;TRUE;Innovar
-254_INNOV_22;Nogal;93;26;4;Min;34;3;Control;Innovar;2022;TRUE;Innovar
-255_INNOV_22;Skagen;89;26;5;Min;34;3;Control;Innovar;2022;TRUE;Innovar
-256_INNOV_22;CH Nara;67;26;6;Min;34;3;Maritime North;Innovar;2022;TRUE;Innovar
-257_INNOV_22;Runal;85;26;7;Min;34;3;Site specific;Innovar;2022;TRUE;Innovar
-258_INNOV_22;KWS Extase;76;26;8;Min;34;3;Maritime North;Innovar;2022;TRUE;Innovar
-259_INNOV_22;RGT Reform;84;26;9;Min;34;3;Maritime North;Innovar;2022;TRUE;Innovar
-26_INNOV_22;CH-Camedo;68;3;5;Min;3;1;Site specific;Innovar;2022;TRUE;Innovar
-26_Inv22;Bernstein;26;3;9;Treated;42;rep1;Fill;Invite6.1;2022;TRUE;Invite6.1
-260_INNOV_22;LG Sundance;79;26;10;Min;34;3;Maritime North;Innovar;2022;TRUE;Innovar
-261_INNOV_22;Cosmic;70;27;10;Min;35;3;Control;Innovar;2022;TRUE;Innovar
-262_INNOV_22;Molinera;80;27;9;Min;35;3;Site specific;Innovar;2022;TRUE;Innovar
-263_INNOV_22;CH-Claro;69;27;8;Min;35;3;Site specific;Innovar;2022;TRUE;Innovar
-264_INNOV_22;Wiwa;92;27;7;Min;35;3;Site specific;Innovar;2022;TRUE;Innovar
-265_INNOV_22;Skyfall;90;27;6;Min;35;3;Control;Innovar;2022;TRUE;Innovar
-266_INNOV_22;Bologna;66;27;5;Min;35;3;Control;Innovar;2022;TRUE;Innovar
-267_INNOV_22;Titlis;91;27;4;Min;35;3;Site specific;Innovar;2022;TRUE;Innovar
-268_INNOV_22;Montalbano;81;27;3;Min;35;3;Maritime North;Innovar;2022;TRUE;Innovar
-269_INNOV_22;GK Szilard;74;27;2;Min;35;3;Control;Innovar;2022;TRUE;Innovar
-27_INNOV_22;Cougar;72;3;4;Min;3;1;Site specific;Innovar;2022;TRUE;Innovar
-27_Inv22;Altigo;24;3;8;Treated;42;rep1;Fill;Invite6.1;2022;TRUE;Invite6.1
-270_INNOV_22;LG Skyscraper;78;27;1;Min;35;3;Maritime North;Innovar;2022;TRUE;Innovar
-28_INNOV_22;Bologna;66;3;3;Min;3;1;Control;Innovar;2022;TRUE;Innovar
-28_Inv22;LG Absalon;33;3;7;Treated;42;rep1;Fill;Invite6.1;2022;TRUE;Invite6.1
-29_INNOV_22;CH-Claro;69;3;2;Min;3;1;Site specific;Innovar;2022;TRUE;Innovar
-29_Inv22;Mv Nador;35;3;6;Treated;42;rep2;Fill;Invite6.1;2022;TRUE;Invite6.1
-3_INNOV_22;Costello;71;1;8;Min;1;1;Control;Innovar;2022;TRUE;Innovar
-3_Inv22;Skyfall;38;1;8;Treated;40;rep1;Fill;Invite6.1;2022;TRUE;Invite6.1
-30_INNOV_22;Titlis;91;3;1;Min;3;1;Site specific;Innovar;2022;TRUE;Innovar
-30_Inv22;Chevignon;28;3;5;Treated;42;rep2;Fill;Invite6.1;2022;TRUE;Invite6.1
-31_INNOV_22;CH-Claro;69;4;1;Opt;5;1;Site specific;Innovar;2022;TRUE;Innovar
-31_Inv22;Skyfall;38;3;4;Treated;42;rep2;Fill;Invite6.1;2022;TRUE;Invite6.1
-32_INNOV_22;Costello;71;4;2;Opt;5;1;Control;Innovar;2022;TRUE;Innovar
-32_Inv22;Nogal;36;3;3;Treated;42;rep2;Fill;Invite6.1;2022;TRUE;Invite6.1
-33_INNOV_22;Poncione;83;4;3;Opt;5;1;Site specific;Innovar;2022;TRUE;Innovar
-33_Inv22;Dagmar;30;3;2;Treated;42;rep3;Fill;Invite6.1;2022;TRUE;Invite6.1
-34_INNOV_22;CH Nara;67;4;4;Opt;5;1;Maritime North;Innovar;2022;TRUE;Innovar
-34_Inv22;Aurelius;25;3;1;Treated;42;rep3;Fill;Invite6.1;2022;TRUE;Invite6.1
-35_INNOV_22;Titlis;91;4;5;Opt;5;1;Site specific;Innovar;2022;TRUE;Innovar
-35_Inv22;Altigo;24;3;0;Treated;42;rep3;Fill;Invite6.1;2022;TRUE;Invite6.1
-36_INNOV_22;Montalbano;81;4;6;Opt;5;1;Maritime North;Innovar;2022;TRUE;Innovar
-36_Inv22;Chevignon;28;3;-1;Treated;42;rep3;Fill;Invite6.1;2022;FALSE;Invite6.1
-37_INNOV_22;GK Szilard;74;4;7;Opt;5;1;Control;Innovar;2022;TRUE;Innovar
-37_Inv22;GK Szil˜rd;31;4;-1;Treated;43;rep3;Fill;Invite6.1;2022;FALSE;Invite6.1
-38_INNOV_22;Bologna;66;4;8;Opt;5;1;Control;Innovar;2022;TRUE;Innovar
-38_Inv22;Mv Nador;35;4;0;Treated;43;rep3;Fill;Invite6.1;2022;TRUE;Invite6.1
-39_INNOV_22;Montalto;82;4;9;Opt;5;1;Site specific;Innovar;2022;TRUE;Innovar
-39_Inv22;Skyfall;38;4;1;Treated;43;rep3;Fill;Invite6.1;2022;TRUE;Invite6.1
-4_INNOV_22;KWS Trinity;77;1;7;Min;1;1;Maritime North;Innovar;2022;TRUE;Innovar
-4_Inv22;GK Szil˜rd;31;1;7;Treated;40;rep1;Fill;Invite6.1;2022;TRUE;Invite6.1
-40_INNOV_22;Shabras;87;4;10;Opt;5;1;Maritime North;Innovar;2022;TRUE;Innovar
-40_Inv22;Bernstein;26;4;2;Treated;43;rep3;Fill;Invite6.1;2022;TRUE;Invite6.1
-41_INNOV_22;Molinera;80;5;10;Opt;6;1;Site specific;Innovar;2022;TRUE;Innovar
-41_Inv22;RGT Reform ;37;4;3;Treated;43;rep2;Fill;Invite6.1;2022;TRUE;Invite6.1
-42_INNOV_22;Cosmic;70;5;9;Opt;6;1;Control;Innovar;2022;TRUE;Innovar
-42_Inv22;LG Absalon;33;4;4;Treated;43;rep2;Fill;Invite6.1;2022;TRUE;Invite6.1
-43_INNOV_22;KWS Trinity;77;5;8;Opt;6;1;Maritime North;Innovar;2022;TRUE;Innovar
-43_Inv22;Costello;29;4;5;Treated;43;rep2;Fill;Invite6.1;2022;TRUE;Invite6.1
-44_INNOV_22;Skyfall;90;5;7;Opt;6;1;Control;Innovar;2022;TRUE;Innovar
-44_Inv22;Julie;32;4;6;Treated;43;rep2;Fill;Invite6.1;2022;TRUE;Invite6.1
-45_INNOV_22;Grafton;75;5;6;Opt;6;1;Maritime North;Innovar;2022;TRUE;Innovar
-45_Inv22;Montalbano;34;4;7;Treated;43;rep1;Fill;Invite6.1;2022;TRUE;Invite6.1
-46_INNOV_22;RGT Reform;84;5;5;Opt;6;1;Maritime North;Innovar;2022;TRUE;Innovar
-46_Inv22;Tenor;39;4;8;Treated;43;rep1;Fill;Invite6.1;2022;TRUE;Invite6.1
-47_INNOV_22;KWS Extase;76;5;4;Opt;6;1;Maritime North;Innovar;2022;TRUE;Innovar
-47_Inv22;Nogal;36;4;9;Treated;43;rep1;Fill;Invite6.1;2022;TRUE;Invite6.1
-48_INNOV_22;LG Skyscraper;78;5;3;Opt;6;1;Maritime North;Innovar;2022;TRUE;Innovar
-48_Inv22;Bologna;27;4;10;Treated;43;rep1;Fill;Invite6.1;2022;TRUE;Invite6.1
-49_INNOV_22;Sahara;86;5;2;Opt;6;1;Site specific;Innovar;2022;TRUE;Innovar
-49_Inv22;Ehogold;16;5;10;Treated;44;rep1;Fill;Invite5.3Conv;2022;TRUE;Invite5.3Conv
-5_INNOV_22;LG Sundance;79;1;6;Min;1;1;Maritime North;Innovar;2022;TRUE;Innovar
-5_Inv22;Tenor;39;1;6;Treated;40;rep2;Fill;Invite6.1;2022;TRUE;Invite6.1
-50_INNOV_22;Cougar;72;5;1;Opt;6;1;Site specific;Innovar;2022;TRUE;Innovar
-50_Inv22;Nara;Tp Nara;5;9;Treated;44;rep1;Fill;Fill;2022;TRUE;Invite5.3Conv
-51_INNOV_22;Nogal;93;6;1;Opt;7;1;Control;Innovar;2022;TRUE;Innovar
-51_Inv22;Nara;Tp Nara;5;8;Treated;44;rep1;Fill;Fill;2022;TRUE;Invite5.3Conv
-52_INNOV_22;Wiwa;92;6;2;Opt;7;1;Site specific;Innovar;2022;TRUE;Innovar
-52_Inv22;Alessio;10;5;7;Treated;44;rep2;Fill;Invite5.3Conv;2022;TRUE;Invite5.3Conv
-53_INNOV_22;Runal;85;6;3;Opt;7;1;Site specific;Innovar;2022;TRUE;Innovar
-53_Inv22;Wiwa;22;5;6;Treated;44;rep2;Fill;Invite5.3Conv;2022;TRUE;Invite5.3Conv
-54_INNOV_22;LG Sundance;79;6;4;Opt;7;1;Maritime North;Innovar;2022;TRUE;Innovar
-54_Inv22;Cellule;12;5;5;Treated;44;rep2;Fill;Invite5.3Conv;2022;TRUE;Invite5.3Conv
-55_INNOV_22;Altigo;64;6;5;Opt;7;1;Control;Innovar;2022;TRUE;Innovar
-55_Inv22;CH-Nara;14;5;4;Treated;44;rep3;Fill;Invite5.3Conv;2022;TRUE;Invite5.3Conv
-56_INNOV_22;Simano;88;6;6;Opt;7;1;Site specific;Innovar;2022;TRUE;Innovar
-56_Inv22;Mv Elite CCP ;18;5;3;Treated;44;rep3;Fill;Invite5.3Conv;2022;TRUE;Invite5.3Conv
-57_INNOV_22;CH-Camedo;68;6;7;Opt;7;1;Site specific;Innovar;2022;TRUE;Innovar
-57_Inv22;Sahara;20;5;2;Treated;44;rep3;Fill;Invite5.3Conv;2022;TRUE;Invite5.3Conv
-58_INNOV_22;Skagen;89;6;8;Opt;7;1;Control;Innovar;2022;TRUE;Innovar
-58_Inv22;Nara;Tp Nara;6;2;Treated;45;rep3;Fill;Fill;2022;TRUE;Invite5.3Conv
-59_INNOV_22;Baretta;65;6;9;Opt;7;1;Site specific;Innovar;2022;TRUE;Innovar
-59_Inv22;Ehogold;16;6;3;Treated;45;rep3;Fill;Invite5.3Conv;2022;TRUE;Invite5.3Conv
-6_INNOV_22;GK Szilard;74;1;5;Min;1;1;Control;Innovar;2022;TRUE;Innovar
-6_Inv22;Bernstein;26;1;5;Treated;40;rep2;Fill;Invite6.1;2022;TRUE;Invite6.1
-60_INNOV_22;Evolution;73;6;10;Opt;7;1;Maritime North;Innovar;2022;TRUE;Innovar
-60_Inv22;Wiwa;22;6;4;Treated;45;rep3;Fill;Invite5.3Conv;2022;TRUE;Invite5.3Conv
-61_INNOV_22;RGT Reform;84;7;10;Ful;9;1;Maritime North;Innovar;2022;TRUE;Innovar
-61_Inv22;Nara;Tp Nara;6;5;Treated;45;rep2;Fill;Fill;2022;TRUE;Invite5.3Conv
-62_INNOV_22;CH Nara;67;7;9;Ful;9;1;Maritime North;Innovar;2022;TRUE;Innovar
-62_Inv22;Sahara;20;6;6;Treated;45;rep2;Fill;Invite5.3Conv;2022;TRUE;Invite5.3Conv
-63_INNOV_22;Altigo;64;7;8;Ful;9;1;Control;Innovar;2022;TRUE;Innovar
-63_Inv22;Nara;Tp Nara;6;7;Treated;45;rep2;Fill;Fill;2022;TRUE;Invite5.3Conv
-64_INNOV_22;Montalbano;81;7;7;Ful;9;1;Maritime North;Innovar;2022;TRUE;Innovar
-64_Inv22;Wiwa;22;6;8;Treated;45;rep1;Fill;Invite5.3Conv;2022;TRUE;Invite5.3Conv
-65_INNOV_22;Grafton;75;7;6;Ful;9;1;Maritime North;Innovar;2022;TRUE;Innovar
-65_Inv22;Mv Elite CCP ;18;6;9;Treated;45;rep1;Fill;Invite5.3Conv;2022;TRUE;Invite5.3Conv
-66_INNOV_22;Titlis;91;7;5;Ful;9;1;Site specific;Innovar;2022;TRUE;Innovar
-66_Inv22;Cellule;12;6;10;Treated;45;rep1;Fill;Invite5.3Conv;2022;TRUE;Invite5.3Conv
-67_INNOV_22;Skyfall;90;7;4;Ful;9;1;Control;Innovar;2022;TRUE;Innovar
-67_Inv22;CH-Nara;14;7;10;Treated;46;rep1;Fill;Invite5.3Conv;2022;TRUE;Invite5.3Conv
-68_INNOV_22;LG Sundance;79;7;3;Ful;9;1;Maritime North;Innovar;2022;TRUE;Innovar
-68_Inv22;Sahara;20;7;9;Treated;46;rep1;Fill;Invite5.3Conv;2022;TRUE;Invite5.3Conv
-69_INNOV_22;Evolution;73;7;2;Ful;9;1;Maritime North;Innovar;2022;TRUE;Innovar
-69_Inv22;Alessio;10;7;8;Treated;46;rep1;Fill;Invite5.3Conv;2022;TRUE;Invite5.3Conv
-7_INNOV_22;Runal;85;1;4;Min;1;1;Site specific;Innovar;2022;TRUE;Innovar
-7_Inv22;Bologna;27;1;4;Treated;40;rep2;Fill;Invite6.1;2022;TRUE;Invite6.1
-70_INNOV_22;Skagen;89;7;1;Ful;9;1;Control;Innovar;2022;TRUE;Innovar
-70_Inv22;Mv Elite CCP ;18;7;7;Treated;46;rep2;Fill;Invite5.3Conv;2022;TRUE;Invite5.3Conv
-71_INNOV_22;Cosmic;70;8;1;Ful;10;1;Control;Innovar;2022;TRUE;Innovar
-71_Inv22;Ehogold;16;7;6;Treated;46;rep2;Fill;Invite5.3Conv;2022;TRUE;Invite5.3Conv
-72_INNOV_22;KWS Trinity;77;8;2;Ful;10;1;Maritime North;Innovar;2022;TRUE;Innovar
-72_Inv22;CH-Nara;14;7;5;Treated;46;rep2;Fill;Invite5.3Conv;2022;TRUE;Invite5.3Conv
-73_INNOV_22;Costello;71;8;3;Ful;10;1;Control;Innovar;2022;TRUE;Innovar
-73_Inv22;Nara;Tp Nara;7;4;Treated;46;rep3;Fill;Fill;2022;TRUE;Invite5.3Conv
-74_INNOV_22;CH-Claro;69;8;4;Ful;10;1;Site specific;Innovar;2022;TRUE;Innovar
-74_Inv22;Alessio;10;7;3;Treated;46;rep3;Fill;Invite5.3Conv;2022;TRUE;Invite5.3Conv
-75_INNOV_22;Shabras;87;8;5;Ful;10;1;Maritime North;Innovar;2022;TRUE;Innovar
-75_Inv22;Cellule;12;7;2;Treated;46;rep3;Fill;Invite5.3Conv;2022;TRUE;Invite5.3Conv
-76_INNOV_22;Nogal;93;8;6;Ful;10;1;Control;Innovar;2022;TRUE;Innovar
-77_INNOV_22;CH-Camedo;68;8;7;Ful;10;1;Site specific;Innovar;2022;TRUE;Innovar
-78_INNOV_22;Molinera;80;8;8;Ful;10;1;Site specific;Innovar;2022;TRUE;Innovar
-79_INNOV_22;LG Skyscraper;78;8;9;Ful;10;1;Maritime North;Innovar;2022;TRUE;Innovar
-8_INNOV_22;Cosmic;70;1;3;Min;1;1;Control;Innovar;2022;TRUE;Innovar
-8_Inv22;Altigo;24;1;3;Treated;40;rep2;Fill;Invite6.1;2022;TRUE;Invite6.1
-80_INNOV_22;Bologna;66;8;10;Ful;10;1;Control;Innovar;2022;TRUE;Innovar
-81_INNOV_22;Cougar;72;9;10;Ful;11;1;Site specific;Innovar;2022;TRUE;Innovar
-82_INNOV_22;KWS Extase;76;9;9;Ful;11;1;Maritime North;Innovar;2022;TRUE;Innovar
-83_INNOV_22;Sahara;86;9;8;Ful;11;1;Site specific;Innovar;2022;TRUE;Innovar
-84_INNOV_22;Simano;88;9;7;Ful;11;1;Site specific;Innovar;2022;TRUE;Innovar
-85_INNOV_22;GK Szilard;74;9;6;Ful;11;1;Control;Innovar;2022;TRUE;Innovar
-86_INNOV_22;Montalto;82;9;5;Ful;11;1;Site specific;Innovar;2022;TRUE;Innovar
-87_INNOV_22;Runal;85;9;4;Ful;11;1;Site specific;Innovar;2022;TRUE;Innovar
-88_INNOV_22;Baretta;65;9;3;Ful;11;1;Site specific;Innovar;2022;TRUE;Innovar
-89_INNOV_22;Poncione;83;9;2;Ful;11;1;Site specific;Innovar;2022;TRUE;Innovar
-9_INNOV_22;Evolution;73;1;2;Min;1;1;Maritime North;Innovar;2022;TRUE;Innovar
-9_Inv22;Julie;32;1;2;Treated;40;rep3;Fill;Invite6.1;2022;TRUE;Invite6.1
-90_INNOV_22;Wiwa;92;9;1;Ful;11;1;Site specific;Innovar;2022;TRUE;Innovar
-91_INNOV_22;KWS Extase;76;10;1;Min;13;2;Maritime North;Innovar;2022;TRUE;Innovar
-92_INNOV_22;CH-Camedo;68;10;2;Min;13;2;Site specific;Innovar;2022;TRUE;Innovar
-93_INNOV_22;Shabras;87;10;3;Min;13;2;Maritime North;Innovar;2022;TRUE;Innovar
-94_INNOV_22;Costello;71;10;4;Min;13;2;Control;Innovar;2022;TRUE;Innovar
-95_INNOV_22;CH Nara;67;10;5;Min;13;2;Maritime North;Innovar;2022;TRUE;Innovar
-96_INNOV_22;Titlis;91;10;6;Min;13;2;Site specific;Innovar;2022;TRUE;Innovar
-97_INNOV_22;RGT Reform;84;10;7;Min;13;2;Maritime North;Innovar;2022;TRUE;Innovar
-98_INNOV_22;Bologna;66;10;8;Min;13;2;Control;Innovar;2022;TRUE;Innovar
-99_INNOV_22;Molinera;80;10;9;Min;13;2;Site specific;Innovar;2022;TRUE;Innovar
-Fill_001;Fill;Fill;-1;1;Fill;-1;0;Fill;Fill;2022;TRUE;Innovar
-Fill_002;Fill;Fill;-1;2;Fill;-1;0;Fill;Fill;2022;TRUE;Innovar
-Fill_003;Fill;Fill;-1;3;Fill;-1;0;Fill;Fill;2022;TRUE;Innovar
-Fill_004;Fill;Fill;-1;4;Fill;-1;0;Fill;Fill;2022;TRUE;Innovar
-Fill_005;Fill;Fill;-1;5;Fill;-1;0;Fill;Fill;2022;TRUE;Innovar
-Fill_006;Fill;Fill;-1;6;Fill;-1;0;Fill;Fill;2022;TRUE;Innovar
-Fill_007;Fill;Fill;-1;7;Fill;-1;0;Fill;Fill;2022;TRUE;Innovar
-Fill_008;Fill;Fill;-1;8;Fill;-1;0;Fill;Fill;2022;TRUE;Innovar
-Fill_009;Fill;Fill;-1;9;Fill;-1;0;Fill;Fill;2022;TRUE;Innovar
-Fill_010;Fill;Fill;-1;10;Fill;-1;0;Fill;Fill;2022;TRUE;Innovar
-Fill_011;Fill;Fill;-1;0;Fill;-1;0;Fill;Fill;2022;TRUE;Innovar
-Fill_012;Fill;Fill;-1;-1;Fill;-1;0;Fill;Fill;2022;FALSE;Innovar
-Fill_013;Fill;Fill;0;-1;Fill;0;0;Fill;Fill;2022;FALSE;Innovar
-Fill_014;Fill;Fill;0;0;Fill;0;0;Fill;Fill;2022;TRUE;Innovar
-Fill_015;Fill;Fill;0;10;Fill;0;0;Fill;Fill;2022;TRUE;Innovar
-Fill_016;Fill;Fill;0;9;Fill;0;0;Fill;Fill;2022;TRUE;Innovar
-Fill_017;Fill;Fill;0;8;Fill;0;0;Fill;Fill;2022;TRUE;Innovar
-Fill_018;Fill;Fill;0;7;Fill;0;0;Fill;Fill;2022;TRUE;Innovar
-Fill_019;Fill;Fill;0;6;Fill;0;0;Fill;Fill;2022;TRUE;Innovar
-Fill_020;Fill;Fill;0;5;Fill;0;0;Fill;Fill;2022;TRUE;Innovar
-Fill_021;Fill;Fill;0;4;Fill;0;0;Fill;Fill;2022;TRUE;Innovar
-Fill_022;Fill;Fill;0;3;Fill;0;0;Fill;Fill;2022;TRUE;Innovar
-Fill_023;Fill;Fill;0;2;Fill;0;0;Fill;Fill;2022;TRUE;Innovar
-Fill_024;Fill;Fill;0;1;Fill;0;0;Fill;Fill;2022;TRUE;Innovar
-Fill_025;Fill;Fill;1;0;Fill;1;0;Fill;Fill;2022;TRUE;Innovar
-Fill_026;Fill;Fill;1;-1;Fill;1;0;Fill;Fill;2022;FALSE;Innovar
-Fill_027;Fill;Fill;2;-1;Fill;2;0;Fill;Fill;2022;FALSE;Innovar
-Fill_028;Fill;Fill;2;0;Fill;2;0;Fill;Fill;2022;TRUE;Innovar
-Fill_029;Fill;Fill;3;0;Fill;3;0;Fill;Fill;2022;TRUE;Innovar
-Fill_030;Fill;Fill;3;-1;Fill;3;0;Fill;Fill;2022;FALSE;Innovar
-Fill_031;Fill;Fill;4;-1;Fill;4;0;Fill;Fill;2022;FALSE;Innovar
-Fill_032;Fill;Fill;4;0;Fill;4;0;Fill;Fill;2022;TRUE;Innovar
-Fill_033;Fill;Fill;4;10;Fill;4;0;Fill;Fill;2022;TRUE;Innovar
-Fill_034;Fill;Fill;4;9;Fill;4;0;Fill;Fill;2022;TRUE;Innovar
-Fill_035;Fill;Fill;4;8;Fill;4;0;Fill;Fill;2022;TRUE;Innovar
-Fill_036;Fill;Fill;4;7;Fill;4;0;Fill;Fill;2022;TRUE;Innovar
-Fill_037;Fill;Fill;4;6;Fill;4;0;Fill;Fill;2022;TRUE;Innovar
-Fill_038;Fill;Fill;4;5;Fill;4;0;Fill;Fill;2022;TRUE;Innovar
-Fill_039;Fill;Fill;4;4;Fill;4;0;Fill;Fill;2022;TRUE;Innovar
-Fill_040;Fill;Fill;4;3;Fill;4;0;Fill;Fill;2022;TRUE;Innovar
-Fill_041;Fill;Fill;4;2;Fill;4;0;Fill;Fill;2022;TRUE;Innovar
-Fill_042;Fill;Fill;4;1;Fill;4;0;Fill;Fill;2022;TRUE;Innovar
-Fill_043;Fill;Fill;5;0;Fill;5;0;Fill;Fill;2022;TRUE;Innovar
-Fill_044;Fill;Fill;5;-1;Fill;5;0;Fill;Fill;2022;FALSE;Innovar
-Fill_045;Fill;Fill;6;-1;Fill;6;0;Fill;Fill;2022;FALSE;Innovar
-Fill_046;Fill;Fill;6;0;Fill;6;0;Fill;Fill;2022;TRUE;Innovar
-Fill_047;Fill;Fill;7;0;Fill;7;0;Fill;Fill;2022;TRUE;Innovar
-Fill_048;Fill;Fill;7;-1;Fill;7;0;Fill;Fill;2022;FALSE;Innovar
-Fill_049;Fill;Fill;8;-1;Fill;8;0;Fill;Fill;2022;FALSE;Innovar
-Fill_050;Fill;Fill;8;0;Fill;8;0;Fill;Fill;2022;TRUE;Innovar
-Fill_051;Fill;Fill;8;10;Fill;8;0;Fill;Fill;2022;TRUE;Innovar
-Fill_052;Fill;Fill;8;9;Fill;8;0;Fill;Fill;2022;TRUE;Innovar
-Fill_053;Fill;Fill;8;8;Fill;8;0;Fill;Fill;2022;TRUE;Innovar
-Fill_054;Fill;Fill;8;7;Fill;8;0;Fill;Fill;2022;TRUE;Innovar
-Fill_055;Fill;Fill;8;6;Fill;8;0;Fill;Fill;2022;TRUE;Innovar
-Fill_056;Fill;Fill;8;5;Fill;8;0;Fill;Fill;2022;TRUE;Innovar
-Fill_057;Fill;Fill;8;4;Fill;8;0;Fill;Fill;2022;TRUE;Innovar
-Fill_058;Fill;Fill;8;3;Fill;8;0;Fill;Fill;2022;TRUE;Innovar
-Fill_059;Fill;Fill;8;2;Fill;8;0;Fill;Fill;2022;TRUE;Innovar
-Fill_060;Fill;Fill;8;1;Fill;8;0;Fill;Fill;2022;TRUE;Innovar
-Fill_061;Fill;Fill;9;0;Fill;9;0;Fill;Fill;2022;TRUE;Innovar
-Fill_062;Fill;Fill;9;-1;Fill;9;0;Fill;Fill;2022;FALSE;Innovar
-Fill_063;Fill;Fill;10;-1;Fill;10;0;Fill;Fill;2022;FALSE;Innovar
-Fill_064;Fill;Fill;10;0;Fill;10;0;Fill;Fill;2022;TRUE;Innovar
-Fill_065;Fill;Fill;11;0;Fill;11;0;Fill;Fill;2022;TRUE;Innovar
-Fill_066;Fill;Fill;11;-1;Fill;11;0;Fill;Fill;2022;FALSE;Innovar
-Fill_067;Fill;Fill;12;-1;Fill;12;0;Fill;Fill;2022;FALSE;Innovar
-Fill_068;Fill;Fill;12;0;Fill;12;0;Fill;Fill;2022;TRUE;Innovar
-Fill_069;Fill;Fill;12;10;Fill;12;0;Fill;Fill;2022;TRUE;Innovar
-Fill_070;Fill;Fill;12;9;Fill;12;0;Fill;Fill;2022;TRUE;Innovar
-Fill_071;Fill;Fill;12;8;Fill;12;0;Fill;Fill;2022;TRUE;Innovar
-Fill_072;Fill;Fill;12;7;Fill;12;0;Fill;Fill;2022;TRUE;Innovar
-Fill_073;Fill;Fill;12;6;Fill;12;0;Fill;Fill;2022;TRUE;Innovar
-Fill_074;Fill;Fill;12;5;Fill;12;0;Fill;Fill;2022;TRUE;Innovar
-Fill_075;Fill;Fill;12;4;Fill;12;0;Fill;Fill;2022;TRUE;Innovar
-Fill_076;Fill;Fill;12;3;Fill;12;0;Fill;Fill;2022;TRUE;Innovar
-Fill_077;Fill;Fill;12;2;Fill;12;0;Fill;Fill;2022;TRUE;Innovar
-Fill_078;Fill;Fill;12;1;Fill;12;0;Fill;Fill;2022;TRUE;Innovar
-Fill_079;Fill;Fill;13;0;Fill;13;0;Fill;Fill;2022;TRUE;Innovar
-Fill_080;Fill;Fill;13;-1;Fill;13;0;Fill;Fill;2022;FALSE;Innovar
-Fill_081;Fill;Fill;14;-1;Fill;14;0;Fill;Fill;2022;FALSE;Innovar
-Fill_082;Fill;Fill;14;0;Fill;14;0;Fill;Fill;2022;TRUE;Innovar
-Fill_083;Fill;Fill;15;0;Fill;15;0;Fill;Fill;2022;TRUE;Innovar
-Fill_084;Fill;Fill;15;-1;Fill;15;0;Fill;Fill;2022;FALSE;Innovar
-Fill_085;Fill;Fill;16;-1;Fill;16;0;Fill;Fill;2022;FALSE;Innovar
-Fill_086;Fill;Fill;16;0;Fill;16;0;Fill;Fill;2022;TRUE;Innovar
-Fill_087;Fill;Fill;16;10;Fill;16;0;Fill;Fill;2022;TRUE;Innovar
-Fill_088;Fill;Fill;16;9;Fill;16;0;Fill;Fill;2022;TRUE;Innovar
-Fill_089;Fill;Fill;16;8;Fill;16;0;Fill;Fill;2022;TRUE;Innovar
-Fill_090;Fill;Fill;16;7;Fill;16;0;Fill;Fill;2022;TRUE;Innovar
-Fill_091;Fill;Fill;16;6;Fill;16;0;Fill;Fill;2022;TRUE;Innovar
-Fill_092;Fill;Fill;16;5;Fill;16;0;Fill;Fill;2022;TRUE;Innovar
-Fill_093;Fill;Fill;16;4;Fill;16;0;Fill;Fill;2022;TRUE;Innovar
-Fill_094;Fill;Fill;16;3;Fill;16;0;Fill;Fill;2022;TRUE;Innovar
-Fill_095;Fill;Fill;16;2;Fill;16;0;Fill;Fill;2022;TRUE;Innovar
-Fill_096;Fill;Fill;16;1;Fill;16;0;Fill;Fill;2022;TRUE;Innovar
-Fill_097;Fill;Fill;17;0;Fill;17;0;Fill;Fill;2022;TRUE;Innovar
-Fill_098;Fill;Fill;17;-1;Fill;17;0;Fill;Fill;2022;FALSE;Innovar
-Fill_099;Fill;Fill;18;-1;Fill;18;0;Fill;Fill;2022;FALSE;Innovar
-Fill_100;Fill;Fill;18;0;Fill;18;0;Fill;Fill;2022;TRUE;Innovar
-Fill_101;Fill;Fill;19;0;Fill;19;0;Fill;Fill;2022;TRUE;Innovar
-Fill_102;Fill;Fill;19;-1;Fill;19;0;Fill;Fill;2022;FALSE;Innovar
-Fill_103;Fill;Fill;20;-1;Fill;20;0;Fill;Fill;2022;FALSE;Innovar
-Fill_104;Fill;Fill;20;0;Fill;20;0;Fill;Fill;2022;TRUE;Innovar
-Fill_105;Fill;Fill;20;10;Fill;20;0;Fill;Fill;2022;TRUE;Innovar
-Fill_106;Fill;Fill;20;9;Fill;20;0;Fill;Fill;2022;TRUE;Innovar
-Fill_107;Fill;Fill;20;8;Fill;20;0;Fill;Fill;2022;TRUE;Innovar
-Fill_108;Fill;Fill;20;7;Fill;20;0;Fill;Fill;2022;TRUE;Innovar
-Fill_109;Fill;Fill;20;6;Fill;20;0;Fill;Fill;2022;TRUE;Innovar
-Fill_110;Fill;Fill;20;5;Fill;20;0;Fill;Fill;2022;TRUE;Innovar
-Fill_111;Fill;Fill;20;4;Fill;20;0;Fill;Fill;2022;TRUE;Innovar
-Fill_112;Fill;Fill;20;3;Fill;20;0;Fill;Fill;2022;TRUE;Innovar
-Fill_113;Fill;Fill;20;2;Fill;20;0;Fill;Fill;2022;TRUE;Innovar
-Fill_114;Fill;Fill;20;1;Fill;20;0;Fill;Fill;2022;TRUE;Innovar
-Fill_115;Fill;Fill;21;0;Fill;21;0;Fill;Fill;2022;TRUE;Innovar
-Fill_116;Fill;Fill;21;-1;Fill;21;0;Fill;Fill;2022;FALSE;Innovar
-Fill_117;Fill;Fill;22;-1;Fill;22;0;Fill;Fill;2022;FALSE;Innovar
-Fill_118;Fill;Fill;22;0;Fill;22;0;Fill;Fill;2022;TRUE;Innovar
-Fill_119;Fill;Fill;23;0;Fill;23;0;Fill;Fill;2022;TRUE;Innovar
-Fill_120;Fill;Fill;23;-1;Fill;23;0;Fill;Fill;2022;FALSE;Innovar
-Fill_121;Fill;Fill;24;-1;Fill;24;0;Fill;Fill;2022;FALSE;Innovar
-Fill_122;Fill;Fill;24;0;Fill;24;0;Fill;Fill;2022;TRUE;Innovar
-Fill_123;Fill;Fill;24;10;Fill;24;0;Fill;Fill;2022;TRUE;Innovar
-Fill_124;Fill;Fill;24;9;Fill;24;0;Fill;Fill;2022;TRUE;Innovar
-Fill_125;Fill;Fill;24;8;Fill;24;0;Fill;Fill;2022;TRUE;Innovar
-Fill_126;Fill;Fill;24;7;Fill;24;0;Fill;Fill;2022;TRUE;Innovar
-Fill_127;Fill;Fill;24;6;Fill;24;0;Fill;Fill;2022;TRUE;Innovar
-Fill_128;Fill;Fill;24;5;Fill;24;0;Fill;Fill;2022;TRUE;Innovar
-Fill_129;Fill;Fill;24;4;Fill;24;0;Fill;Fill;2022;TRUE;Innovar
-Fill_130;Fill;Fill;24;3;Fill;24;0;Fill;Fill;2022;TRUE;Innovar
-Fill_131;Fill;Fill;24;2;Fill;24;0;Fill;Fill;2022;TRUE;Innovar
-Fill_132;Fill;Fill;24;1;Fill;24;0;Fill;Fill;2022;TRUE;Innovar
-Fill_133;Fill;Fill;25;0;Fill;25;0;Fill;Fill;2022;TRUE;Innovar
-Fill_134;Fill;Fill;25;-1;Fill;25;0;Fill;Fill;2022;FALSE;Innovar
-Fill_135;Fill;Fill;26;-1;Fill;26;0;Fill;Fill;2022;FALSE;Innovar
-Fill_136;Fill;Fill;26;0;Fill;26;0;Fill;Fill;2022;TRUE;Innovar
-Fill_137;Fill;Fill;27;0;Fill;27;0;Fill;Fill;2022;TRUE;Innovar
-Fill_138;Fill;Fill;27;-1;Fill;27;0;Fill;Fill;2022;FALSE;Innovar
-Fill_139;Fill;Fill;28;-1;Fill;28;0;Fill;Fill;2022;FALSE;Innovar
-Fill_140;Fill;Fill;28;0;Fill;28;0;Fill;Fill;2022;TRUE;Innovar
-Fill_141;Fill;Fill;28;10;Fill;28;0;Fill;Fill;2022;TRUE;Innovar
-Fill_142;Fill;Fill;28;9;Fill;28;0;Fill;Fill;2022;TRUE;Innovar
-Fill_143;Fill;Fill;28;8;Fill;28;0;Fill;Fill;2022;TRUE;Innovar
-Fill_144;Fill;Fill;28;7;Fill;28;0;Fill;Fill;2022;TRUE;Innovar
-Fill_145;Fill;Fill;28;6;Fill;28;0;Fill;Fill;2022;TRUE;Innovar
-Fill_146;Fill;Fill;28;5;Fill;28;0;Fill;Fill;2022;TRUE;Innovar
-Fill_147;Fill;Fill;28;4;Fill;28;0;Fill;Fill;2022;TRUE;Innovar
-Fill_148;Fill;Fill;28;3;Fill;28;0;Fill;Fill;2022;TRUE;Innovar
-Fill_149;Fill;Fill;28;2;Fill;28;0;Fill;Fill;2022;TRUE;Innovar
-Fill_150;Fill;Fill;28;1;Fill;28;0;Fill;Fill;2022;TRUE;Innovar
-Fill_151;Fill;Fill;29;0;Fill;29;0;Fill;Fill;2022;TRUE;Innovar
-Fill_152;Fill;Fill;29;-1;Fill;29;0;Fill;Fill;2022;FALSE;Innovar
-Fill_153;Fill;Fill;30;-1;Fill;30;0;Fill;Fill;2022;FALSE;Innovar
-Fill_154;Fill;Fill;30;0;Fill;30;0;Fill;Fill;2022;TRUE;Innovar
-Fill_155;Fill;Fill;31;0;Fill;31;0;Fill;Fill;2022;TRUE;Innovar
-Fill_156;Fill;Fill;31;-1;Fill;31;0;Fill;Fill;2022;FALSE;Innovar
-Fill_157;Fill;Fill;32;-1;Fill;32;0;Fill;Fill;2022;FALSE;Innovar
-Fill_158;Fill;Fill;32;0;Fill;32;0;Fill;Fill;2022;TRUE;Innovar
-Fill_159;Fill;Fill;32;10;Fill;32;0;Fill;Fill;2022;TRUE;Innovar
-Fill_160;Fill;Fill;32;9;Fill;32;0;Fill;Fill;2022;TRUE;Innovar
-Fill_161;Fill;Fill;32;8;Fill;32;0;Fill;Fill;2022;TRUE;Innovar
-Fill_162;Fill;Fill;32;7;Fill;32;0;Fill;Fill;2022;TRUE;Innovar
-Fill_163;Fill;Fill;32;6;Fill;32;0;Fill;Fill;2022;TRUE;Innovar
-Fill_164;Fill;Fill;32;5;Fill;32;0;Fill;Fill;2022;TRUE;Innovar
-Fill_165;Fill;Fill;32;4;Fill;32;0;Fill;Fill;2022;TRUE;Innovar
-Fill_166;Fill;Fill;32;3;Fill;32;0;Fill;Fill;2022;TRUE;Innovar
-Fill_167;Fill;Fill;32;2;Fill;32;0;Fill;Fill;2022;TRUE;Innovar
-Fill_168;Fill;Fill;32;1;Fill;32;0;Fill;Fill;2022;TRUE;Innovar
-Fill_169;Fill;Fill;33;0;Fill;33;0;Fill;Fill;2022;TRUE;Innovar
-Fill_170;Fill;Fill;33;-1;Fill;33;0;Fill;Fill;2022;FALSE;Innovar
-Fill_171;Fill;Fill;34;-1;Fill;34;0;Fill;Fill;2022;FALSE;Innovar
-Fill_172;Fill;Fill;34;0;Fill;34;0;Fill;Fill;2022;TRUE;Innovar
-Fill_173;Fill;Fill;35;0;Fill;35;0;Fill;Fill;2022;TRUE;Innovar
-Fill_174;Fill;Fill;35;-1;Fill;35;0;Fill;Fill;2022;FALSE;Innovar
-Fill_175;Fill;Fill;36;-1;Fill;36;0;Fill;Fill;2022;FALSE;Innovar
-Fill_176;Fill;Fill;36;0;Fill;36;0;Fill;Fill;2022;TRUE;Innovar
-Fill_177;Fill;Fill;36;10;Fill;36;0;Fill;Fill;2022;TRUE;Innovar
-Fill_178;Fill;Fill;36;9;Fill;36;0;Fill;Fill;2022;TRUE;Innovar
-Fill_179;Fill;Fill;36;8;Fill;36;0;Fill;Fill;2022;TRUE;Innovar
-Fill_180;Fill;Fill;36;7;Fill;36;0;Fill;Fill;2022;TRUE;Innovar
-Fill_181;Fill;Fill;36;6;Fill;36;0;Fill;Fill;2022;TRUE;Innovar
-Fill_182;Fill;Fill;36;5;Fill;36;0;Fill;Fill;2022;TRUE;Innovar
-Fill_183;Fill;Fill;36;4;Fill;36;0;Fill;Fill;2022;TRUE;Innovar
-Fill_184;Fill;Fill;36;3;Fill;36;0;Fill;Fill;2022;TRUE;Innovar
-Fill_185;Fill;Fill;36;2;Fill;36;0;Fill;Fill;2022;TRUE;Innovar
-Fill_186;Fill;Fill;36;1;Fill;36;0;Fill;Fill;2022;TRUE;Innovar
-Fill_187;Fill;Fill;37;1;Fill;37;0;Fill;Fill;2022;TRUE;Innovar
-Fill_188;Fill;Fill;37;2;Fill;37;0;Fill;Fill;2022;TRUE;Innovar
-Fill_189;Fill;Fill;37;3;Fill;37;0;Fill;Fill;2022;TRUE;Innovar
-Fill_190;Fill;Fill;37;4;Fill;37;0;Fill;Fill;2022;TRUE;Innovar
-Fill_191;Fill;Fill;37;5;Fill;37;0;Fill;Fill;2022;TRUE;Innovar
-Fill_192;Fill;Fill;37;6;Fill;37;0;Fill;Fill;2022;TRUE;Innovar
-Fill_193;Fill;Fill;37;7;Fill;37;0;Fill;Fill;2022;TRUE;Innovar
-Fill_194;Fill;Fill;37;8;Fill;37;0;Fill;Fill;2022;TRUE;Innovar
-Fill_195;Fill;Fill;37;9;Fill;37;0;Fill;Fill;2022;TRUE;Innovar
-Fill_196;Fill;Fill;37;10;Fill;37;0;Fill;Fill;2022;TRUE;Innovar
-Fill_197;Fill;Fill;37;0;Fill;37;0;Fill;Fill;2022;TRUE;Innovar
-Fill_198;Fill;Fill;37;-1;Fill;37;0;Fill;Fill;2022;FALSE;Innovar
-Fill_199;Fill;Fill;42;1;Fill;44;0;Fill;Fill;2022;TRUE;Invite5.3Conv
-Fill_200;Fill;Fill;42;0;Fill;44;0;Fill;Fill;2022;TRUE;Invite5.3Conv
-Fill_201;Fill;Fill;42;-1;Fill;44;0;Fill;Fill;2022;FALSE;Invite5.3Conv
-Fill_202;Fill;Fill;43;-1;Fill;45;0;Fill;Fill;2022;FALSE;Invite5.3Conv
-Fill_203;Fill;Fill;43;0;Fill;45;0;Fill;Fill;2022;TRUE;Invite5.3Conv
-Fill_204;Fill;Fill;43;1;Fill;45;0;Fill;Fill;2022;TRUE;Invite5.3Conv
-Fill_205;Fill;Fill;44;1;Fill;46;0;Fill;Fill;2022;TRUE;Invite5.3Conv
-Fill_206;Fill;Fill;44;0;Fill;46;0;Fill;Fill;2022;TRUE;Invite5.3Conv
-Fill_207;Fill;Fill;44;-1;Fill;46;0;Fill;Fill;2022;FALSE;Invite5.3Conv
-Fill_208;Fill;Fill;45;1;Fill;47;0;Fill;Fill;2022;TRUE;Invite5.3Conv
-Fill_209;Fill;Fill;45;2;Fill;47;0;Fill;Fill;2022;TRUE;Invite5.3Conv
-Fill_210;Fill;Fill;45;3;Fill;47;0;Fill;Fill;2022;TRUE;Invite5.3Conv
-Fill_211;Fill;Fill;45;4;Fill;47;0;Fill;Fill;2022;TRUE;Invite5.3Conv
-Fill_212;Fill;Fill;45;5;Fill;47;0;Fill;Fill;2022;TRUE;Invite5.3Conv
-Fill_213;Fill;Fill;45;6;Fill;47;0;Fill;Fill;2022;TRUE;Invite5.3Conv
-Fill_214;Fill;Fill;45;7;Fill;47;0;Fill;Fill;2022;TRUE;Invite5.3Conv
-Fill_215;Fill;Fill;45;8;Fill;47;0;Fill;Fill;2022;TRUE;Invite5.3Conv
-Fill_216;Fill;Fill;45;9;Fill;47;0;Fill;Fill;2022;TRUE;Invite5.3Conv
-Fill_217;Fill;Fill;45;10;Fill;47;0;Fill;Fill;2022;TRUE;Invite5.3Conv
-Fill_218;Fill;Fill;45;0;Fill;47;0;Fill;Fill;2022;TRUE;Invite5.3Conv
-Fill_219;Fill;Fill;45;-1;Fill;47;0;Fill;Fill;2022;FALSE;Invite5.3Conv
-Fill_220;Fill;Fill;46;-1;Fill;48;0;Fill;Fill;2022;FALSE;Invite5.3Conv
-Fill_221;Fill;Fill;46;0;Fill;48;0;Fill;Fill;2022;TRUE;Invite5.3Conv
-Fill_222;Fill;Fill;46;10;Fill;48;0;Fill;Fill;2022;TRUE;Invite5.3Conv
-Fill_223;Fill;Fill;46;9;Fill;48;0;Fill;Fill;2022;TRUE;Invite5.3Conv
-Fill_224;Fill;Fill;46;8;Fill;48;0;Fill;Fill;2022;TRUE;Invite5.3Conv
-Fill_225;Fill;Fill;46;7;Fill;48;0;Fill;Fill;2022;TRUE;Invite5.3Conv
-Fill_226;Fill;Fill;46;6;Fill;48;0;Fill;Fill;2022;TRUE;Invite5.3Conv
-Fill_227;Fill;Fill;46;5;Fill;48;0;Fill;Fill;2022;TRUE;Invite5.3Conv
-Fill_228;Fill;Fill;46;4;Fill;48;0;Fill;Fill;2022;TRUE;Invite5.3Conv
-Fill_229;Fill;Fill;46;3;Fill;48;0;Fill;Fill;2022;TRUE;Invite5.3Conv
-Fill_230;Fill;Fill;46;2;Fill;48;0;Fill;Fill;2022;TRUE;Invite5.3Conv
-Fill_231;Fill;Fill;46;1;Fill;48;0;Fill;Fill;2022;TRUE;Invite5.3Conv
-Fill_232;Fill;Fill;36;-1;Fill;38;0;Fill;Fill;2022;FALSE;Fill
-Fill_233;Fill;Fill;36;0;Fill;38;0;Fill;Fill;2022;TRUE;Fill
-Fill_234;Fill;Fill;36;1;Fill;38;0;Fill;Fill;2022;TRUE;Fill
-Fill_235;Fill;Fill;36;2;Fill;38;0;Fill;Fill;2022;TRUE;Fill
-Fill_236;Fill;Fill;36;3;Fill;38;0;Fill;Fill;2022;TRUE;Fill
-Fill_237;Fill;Fill;36;4;Fill;38;0;Fill;Fill;2022;TRUE;Fill
-Fill_238;Fill;Fill;36;5;Fill;38;0;Fill;Fill;2022;TRUE;Fill
-Fill_239;Fill;Fill;36;6;Fill;38;0;Fill;Fill;2022;TRUE;Fill
-Fill_240;Fill;Fill;36;7;Fill;38;0;Fill;Fill;2022;TRUE;Fill
-Fill_241;Fill;Fill;36;8;Fill;38;0;Fill;Fill;2022;TRUE;Fill
-Fill_242;Fill;Fill;36;9;Fill;38;0;Fill;Fill;2022;TRUE;Fill
-Fill_243;Fill;Fill;36;10;Fill;38;0;Fill;Fill;2022;TRUE;Fill
-Fill_244;Fill;Fill;37;-1;Fill;39;0;Fill;Fill;2022;FALSE;Invite6.1
-Fill_245;Fill;Fill;37;0;Fill;39;0;Fill;Fill;2022;TRUE;Invite6.1
-Fill_246;Fill;Fill;37;1;Fill;39;0;Fill;Fill;2022;TRUE;Invite6.1
-Fill_247;Fill;Fill;37;2;Fill;39;0;Fill;Fill;2022;TRUE;Invite6.1
-Fill_248;Fill;Fill;37;3;Fill;39;0;Fill;Fill;2022;TRUE;Invite6.1
-Fill_249;Fill;Fill;37;4;Fill;39;0;Fill;Fill;2022;TRUE;Invite6.1
-Fill_250;Fill;Fill;37;5;Fill;39;0;Fill;Fill;2022;TRUE;Invite6.1
-Fill_251;Fill;Fill;37;6;Fill;39;0;Fill;Fill;2022;TRUE;Invite6.1
-Fill_252;Fill;Fill;37;7;Fill;39;0;Fill;Fill;2022;TRUE;Invite6.1
-Fill_253;Fill;Fill;37;8;Fill;39;0;Fill;Fill;2022;TRUE;Invite6.1
-Fill_254;Fill;Fill;37;9;Fill;39;0;Fill;Fill;2022;TRUE;Invite6.1
-Fill_255;Fill;Fill;37;10;Fill;39;0;Fill;Fill;2022;TRUE;Invite6.1
+"Plot_seq";"Genotype";"Seed_ID";"Row";"Range";"Treatment";"Row_in_Field";"Rep";"Category";"Trial";"Year"
+"1";"1_Trial1";"G01";"64";"1";"10";"Treatment1";"1";"1";"Category1";"Trail1";"2022"
+"2";"1_Trial2";"G02";"30";"1";"10";"Treatment1";"40";"1";"Fill";"Trail2.1";"2022"
+"3";"10_Trial1";"G03";"82";"1";"1";"Treatment1";"1";"1";"Category2";"Trail1";"2022"
+"4";"10_Trial2";"G04";"34";"1";"1";"Treatment1";"40";"3";"Fill";"Trail2.1";"2022"
+"5";"100_Trial1";"G05";"86";"10";"10";"Treatment1";"13";"2";"Category2";"Trail1";"2022"
+"6";"101_Trial1";"G06";"77";"11";"10";"Treatment1";"14";"2";"Category3";"Trail1";"2022"
+"7";"102_Trial1";"G07";"93";"11";"9";"Treatment1";"14";"2";"Category1";"Trail1";"2022"
+"8";"103_Trial1";"G04";"81";"11";"8";"Treatment1";"14";"2";"Category3";"Trail1";"2022"
+"9";"104_Trial1";"G03";"82";"11";"7";"Treatment1";"14";"2";"Category2";"Trail1";"2022"
+"10";"105_Trial1";"G08";"70";"11";"6";"Treatment1";"14";"2";"Category1";"Trail1";"2022"
+"11";"106_Trial1";"G09";"65";"11";"5";"Treatment1";"14";"2";"Category2";"Trail1";"2022"
+"12";"107_Trial1";"G10";"74";"11";"4";"Treatment1";"14";"2";"Category1";"Trail1";"2022"
+"13";"108_Trial1";"G11";"72";"11";"3";"Treatment1";"14";"2";"Category2";"Trail1";"2022"
+"14";"109_Trial1";"G38";"69";"11";"2";"Treatment1";"14";"2";"Category2";"Trail1";"2022"
+"15";"11_Trial1";"G39";"92";"2";"1";"Treatment1";"2";"1";"Category2";"Trail1";"2022"
+"16";"11_Trial2";"G07";"36";"1";"0";"Treatment1";"40";"3";"Fill";"Trail2.1";"2022"
+"17";"110_Trial1";"G40";"75";"11";"1";"Treatment1";"14";"2";"Category3";"Trail1";"2022"
+"18";"111_Trial1";"G41";"85";"12";"1";"Treatment1";"15";"2";"Category2";"Trail1";"2022"
+"19";"112_Trial1";"G42";"73";"12";"2";"Treatment1";"15";"2";"Category3";"Trail1";"2022"
+"20";"113_Trial1";"G43";"89";"12";"3";"Treatment1";"15";"2";"Category1";"Trail1";"2022"
+"21";"114_Trial1";"G44";"90";"12";"4";"Treatment1";"15";"2";"Category1";"Trail1";"2022"
+"22";"115_Trial1";"G45";"78";"12";"5";"Treatment1";"15";"2";"Category3";"Trail1";"2022"
+"23";"116_Trial1";"G46";"83";"12";"6";"Treatment1";"15";"2";"Category2";"Trail1";"2022"
+"24";"117_Trial1";"G39";"92";"12";"7";"Treatment1";"15";"2";"Category2";"Trail1";"2022"
+"25";"118_Trial1";"G37";"88";"12";"8";"Treatment1";"15";"2";"Category2";"Trail1";"2022"
+"26";"119_Trial1";"G12";"79";"12";"9";"Treatment1";"15";"2";"Category3";"Trail1";"2022"
+"27";"12_Trial1";"G13";"87";"2";"2";"Treatment1";"2";"1";"Category3";"Trail1";"2022"
+"28";"12_Trial2";"G14";"33";"1";"-1";"Treatment1";"40";"3";"Fill";"Trail2.1";"2022"
+"29";"120_Trial1";"G01";"64";"12";"10";"Treatment1";"15";"2";"Category1";"Trail1";"2022"
+"30";"121_Trial1";"G07";"93";"13";"10";"Treatment2";"17";"2";"Category1";"Trail1";"2022"
+"31";"122_Trial1";"G38";"69";"13";"9";"Treatment2";"17";"2";"Category2";"Trail1";"2022"
+"32";"123_Trial1";"G08";"70";"13";"8";"Treatment2";"17";"2";"Category1";"Trail1";"2022"
+"33";"124_Trial1";"G03";"82";"13";"7";"Treatment2";"17";"2";"Category2";"Trail1";"2022"
+"34";"125_Trial1";"G39";"92";"13";"6";"Treatment2";"17";"2";"Category2";"Trail1";"2022"
+"35";"126_Trial1";"G15";"91";"13";"5";"Treatment2";"17";"2";"Category2";"Trail1";"2022"
+"36";"127_Trial1";"G04";"81";"13";"4";"Treatment2";"17";"2";"Category3";"Trail1";"2022"
+"37";"128_Trial1";"G16";"71";"13";"3";"Treatment2";"17";"2";"Category1";"Trail1";"2022"
+"38";"129_Trial1";"G06";"77";"13";"2";"Treatment2";"17";"2";"Category3";"Trail1";"2022"
+"39";"13_Trial1";"G40";"75";"2";"3";"Treatment1";"2";"1";"Category3";"Trail1";"2022"
+"40";"13_Trial2";"G17";"39";"2";"-1";"Treatment1";"41";"3";"Fill";"Trail2.1";"2022"
+"41";"130_Trial1";"G18";"67";"13";"1";"Treatment2";"17";"2";"Category3";"Trail1";"2022"
+"42";"131_Trial1";"G45";"78";"14";"1";"Treatment2";"18";"2";"Category3";"Trail1";"2022"
+"43";"132_Trial1";"G19";"76";"14";"2";"Treatment2";"18";"2";"Category3";"Trail1";"2022"
+"44";"133_Trial1";"G37";"88";"14";"3";"Treatment2";"18";"2";"Category2";"Trail1";"2022"
+"45";"134_Trial1";"G20";"84";"14";"4";"Treatment2";"18";"2";"Category3";"Trail1";"2022"
+"46";"135_Trial1";"G43";"89";"14";"5";"Treatment2";"18";"2";"Category1";"Trail1";"2022"
+"47";"136_Trial1";"G46";"83";"14";"6";"Treatment2";"18";"2";"Category2";"Trail1";"2022"
+"48";"137_Trial1";"G40";"75";"14";"7";"Treatment2";"18";"2";"Category3";"Trail1";"2022"
+"49";"138_Trial1";"G12";"79";"14";"8";"Treatment2";"18";"2";"Category3";"Trail1";"2022"
+"50";"139_Trial1";"G01";"64";"14";"9";"Treatment2";"18";"2";"Category1";"Trail1";"2022"
+"51";"14_Trial1";"G04";"81";"2";"4";"Treatment1";"2";"1";"Category3";"Trail1";"2022"
+"52";"14_Trial2";"G16";"29";"2";"0";"Treatment1";"41";"3";"Fill";"Trail2.1";"2022"
+"53";"140_Trial1";"G09";"65";"14";"10";"Treatment2";"18";"2";"Category2";"Trail1";"2022"
+"54";"141_Trial1";"G42";"73";"15";"10";"Treatment2";"19";"2";"Category3";"Trail1";"2022"
+"55";"142_Trial1";"G21";"80";"15";"9";"Treatment2";"19";"2";"Category2";"Trail1";"2022"
+"56";"143_Trial1";"G22";"66";"15";"8";"Treatment2";"19";"2";"Category1";"Trail1";"2022"
+"57";"144_Trial1";"G41";"85";"15";"7";"Treatment2";"19";"2";"Category2";"Trail1";"2022"
+"58";"145_Trial1";"G10";"74";"15";"6";"Treatment2";"19";"2";"Category1";"Trail1";"2022"
+"59";"146_Trial1";"G11";"72";"15";"5";"Treatment2";"19";"2";"Category2";"Trail1";"2022"
+"60";"147_Trial1";"G23";"68";"15";"4";"Treatment2";"19";"2";"Category2";"Trail1";"2022"
+"61";"148_Trial1";"G44";"90";"15";"3";"Treatment2";"19";"2";"Category1";"Trail1";"2022"
+"62";"149_Trial1";"G05";"86";"15";"2";"Treatment2";"19";"2";"Category2";"Trail1";"2022"
+"63";"15_Trial1";"G07";"93";"2";"5";"Treatment1";"2";"1";"Category1";"Trail1";"2022"
+"64";"15_Trial2";"G22";"27";"2";"1";"Treatment1";"41";"3";"Fill";"Trail2.1";"2022"
+"65";"150_Trial1";"G13";"87";"15";"1";"Treatment2";"19";"2";"Category3";"Trail1";"2022"
+"66";"151_Trial1";"G39";"92";"16";"1";"Treatment3";"21";"2";"Category2";"Trail1";"2022"
+"67";"152_Trial1";"G06";"77";"16";"2";"Treatment3";"21";"2";"Category3";"Trail1";"2022"
+"68";"153_Trial1";"G16";"71";"16";"3";"Treatment3";"21";"2";"Category1";"Trail1";"2022"
+"69";"154_Trial1";"G23";"68";"16";"4";"Treatment3";"21";"2";"Category2";"Trail1";"2022"
+"70";"155_Trial1";"G10";"74";"16";"5";"Treatment3";"21";"2";"Category1";"Trail1";"2022"
+"71";"156_Trial1";"G19";"76";"16";"6";"Treatment3";"21";"2";"Category3";"Trail1";"2022"
+"72";"157_Trial1";"G37";"88";"16";"7";"Treatment3";"21";"2";"Category2";"Trail1";"2022"
+"73";"158_Trial1";"G38";"69";"16";"8";"Treatment3";"21";"2";"Category2";"Trail1";"2022"
+"74";"159_Trial1";"G12";"79";"16";"9";"Treatment3";"21";"2";"Category3";"Trail1";"2022"
+"75";"16_Trial1";"G09";"65";"2";"6";"Treatment1";"2";"1";"Category2";"Trail1";"2022"
+"76";"16_Trial2";"G20 ";"37";"2";"2";"Treatment1";"41";"3";"Fill";"Trail2.1";"2022"
+"77";"160_Trial1";"G04";"81";"16";"10";"Treatment3";"21";"2";"Category3";"Trail1";"2022"
+"78";"161_Trial1";"G11";"72";"17";"10";"Treatment3";"22";"2";"Category2";"Trail1";"2022"
+"79";"162_Trial1";"G44";"90";"17";"9";"Treatment3";"22";"2";"Category1";"Trail1";"2022"
+"80";"163_Trial1";"G40";"75";"17";"8";"Treatment3";"22";"2";"Category3";"Trail1";"2022"
+"81";"164_Trial1";"G01";"64";"17";"7";"Treatment3";"22";"2";"Category1";"Trail1";"2022"
+"82";"165_Trial1";"G45";"78";"17";"6";"Treatment3";"22";"2";"Category3";"Trail1";"2022"
+"83";"166_Trial1";"G13";"87";"17";"5";"Treatment3";"22";"2";"Category3";"Trail1";"2022"
+"84";"167_Trial1";"G03";"82";"17";"4";"Treatment3";"22";"2";"Category2";"Trail1";"2022"
+"85";"168_Trial1";"G05";"86";"17";"3";"Treatment3";"22";"2";"Category2";"Trail1";"2022"
+"86";"169_Trial1";"G22";"66";"17";"2";"Treatment3";"22";"2";"Category1";"Trail1";"2022"
+"87";"17_Trial1";"G19";"76";"2";"7";"Treatment1";"2";"1";"Category3";"Trail1";"2022"
+"88";"17_Trial2";"G25";"31";"2";"3";"Treatment1";"41";"2";"Fill";"Trail2.1";"2022"
+"89";"170_Trial1";"G18";"67";"17";"1";"Treatment3";"22";"2";"Category3";"Trail1";"2022"
+"90";"171_Trial1";"G08";"70";"18";"1";"Treatment3";"23";"2";"Category1";"Trail1";"2022"
+"91";"172_Trial1";"G42";"73";"18";"2";"Treatment3";"23";"2";"Category3";"Trail1";"2022"
+"92";"173_Trial1";"G21";"80";"18";"3";"Treatment3";"23";"2";"Category2";"Trail1";"2022"
+"93";"174_Trial1";"G07";"93";"18";"4";"Treatment3";"23";"2";"Category1";"Trail1";"2022"
+"94";"175_Trial1";"G41";"85";"18";"5";"Treatment3";"23";"2";"Category2";"Trail1";"2022"
+"95";"176_Trial1";"G20";"84";"18";"6";"Treatment3";"23";"2";"Category3";"Trail1";"2022"
+"96";"177_Trial1";"G46";"83";"18";"7";"Treatment3";"23";"2";"Category2";"Trail1";"2022"
+"97";"178_Trial1";"G09";"65";"18";"8";"Treatment3";"23";"2";"Category2";"Trail1";"2022"
+"98";"179_Trial1";"G43";"89";"18";"9";"Treatment3";"23";"2";"Category1";"Trail1";"2022"
+"99";"18_Trial1";"G46";"83";"2";"8";"Treatment1";"2";"1";"Category2";"Trail1";"2022"
+"100";"18_Trial2";"G02";"30";"2";"4";"Treatment1";"41";"2";"Fill";"Trail2.1";"2022"
+"101";"180_Trial1";"G15";"91";"18";"10";"Treatment3";"23";"2";"Category2";"Trail1";"2022"
+"102";"181_Trial1";"G16";"71";"19";"10";"Treatment2";"25";"3";"Category1";"Trail1";"2022"
+"103";"182_Trial1";"G04";"81";"19";"9";"Treatment2";"25";"3";"Category3";"Trail1";"2022"
+"104";"183_Trial1";"G10";"74";"19";"8";"Treatment2";"25";"3";"Category1";"Trail1";"2022"
+"105";"184_Trial1";"G18";"67";"19";"7";"Treatment2";"25";"3";"Category3";"Trail1";"2022"
+"106";"185_Trial1";"G13";"87";"19";"6";"Treatment2";"25";"3";"Category3";"Trail1";"2022"
+"107";"186_Trial1";"G01";"64";"19";"5";"Treatment2";"25";"3";"Category1";"Trail1";"2022"
+"108";"187_Trial1";"G45";"78";"19";"4";"Treatment2";"25";"3";"Category3";"Trail1";"2022"
+"109";"188_Trial1";"G21";"80";"19";"3";"Treatment2";"25";"3";"Category2";"Trail1";"2022"
+"110";"189_Trial1";"G40";"75";"19";"2";"Treatment2";"25";"3";"Category3";"Trail1";"2022"
+"111";"19_Trial1";"G44";"90";"2";"9";"Treatment1";"2";"1";"Category1";"Trail1";"2022"
+"112";"19_Trial2";"G04";"34";"2";"5";"Treatment1";"41";"2";"Fill";"Trail2.1";"2022"
+"113";"190_Trial1";"G46";"83";"19";"1";"Treatment2";"25";"3";"Category2";"Trail1";"2022"
+"114";"191_Trial1";"G37";"88";"20";"1";"Treatment2";"26";"3";"Category2";"Trail1";"2022"
+"115";"192_Trial1";"G44";"90";"20";"2";"Treatment2";"26";"3";"Category1";"Trail1";"2022"
+"116";"193_Trial1";"G38";"69";"20";"3";"Treatment2";"26";"3";"Category2";"Trail1";"2022"
+"117";"194_Trial1";"G15";"91";"20";"4";"Treatment2";"26";"3";"Category2";"Trail1";"2022"
+"118";"195_Trial1";"G07";"93";"20";"5";"Treatment2";"26";"3";"Category1";"Trail1";"2022"
+"119";"196_Trial1";"G05";"86";"20";"6";"Treatment2";"26";"3";"Category2";"Trail1";"2022"
+"120";"197_Trial1";"G20";"84";"20";"7";"Treatment2";"26";"3";"Category3";"Trail1";"2022"
+"121";"198_Trial1";"G22";"66";"20";"8";"Treatment2";"26";"3";"Category1";"Trail1";"2022"
+"122";"199_Trial1";"G23";"68";"20";"9";"Treatment2";"26";"3";"Category2";"Trail1";"2022"
+"123";"2_Trial1";"G05";"86";"1";"9";"Treatment1";"1";"1";"Category2";"Trail1";"2022"
+"124";"2_Trial2";"G16";"29";"1";"9";"Treatment1";"40";"1";"Fill";"Trail2.1";"2022"
+"125";"20_Trial1";"G21";"80";"2";"10";"Treatment1";"2";"1";"Category2";"Trail1";"2022"
+"126";"20_Trial2";"G26";"25";"2";"6";"Treatment1";"41";"2";"Fill";"Trail2.1";"2022"
+"127";"200_Trial1";"G42";"73";"20";"10";"Treatment2";"26";"3";"Category3";"Trail1";"2022"
+"128";"201_Trial1";"G03";"82";"21";"10";"Treatment2";"27";"3";"Category2";"Trail1";"2022"
+"129";"202_Trial1";"G11";"72";"21";"9";"Treatment2";"27";"3";"Category2";"Trail1";"2022"
+"130";"203_Trial1";"G43";"89";"21";"8";"Treatment2";"27";"3";"Category1";"Trail1";"2022"
+"131";"204_Trial1";"G09";"65";"21";"7";"Treatment2";"27";"3";"Category2";"Trail1";"2022"
+"132";"205_Trial1";"G12";"79";"21";"6";"Treatment2";"27";"3";"Category3";"Trail1";"2022"
+"133";"206_Trial1";"G08";"70";"21";"5";"Treatment2";"27";"3";"Category1";"Trail1";"2022"
+"134";"207_Trial1";"G19";"76";"21";"4";"Treatment2";"27";"3";"Category3";"Trail1";"2022"
+"135";"208_Trial1";"G39";"92";"21";"3";"Treatment2";"27";"3";"Category2";"Trail1";"2022"
+"136";"209_Trial1";"G06";"77";"21";"2";"Treatment2";"27";"3";"Category3";"Trail1";"2022"
+"137";"21_Trial1";"G20";"84";"3";"10";"Treatment1";"3";"1";"Category3";"Trail1";"2022"
+"138";"21_Trial2";"G27";"35";"2";"7";"Treatment1";"41";"1";"Fill";"Trail2.1";"2022"
+"139";"210_Trial1";"G41";"85";"21";"1";"Treatment2";"27";"3";"Category2";"Trail1";"2022"
+"140";"211_Trial1";"G44";"90";"22";"1";"Treatment3";"29";"3";"Category1";"Trail1";"2022"
+"141";"212_Trial1";"G20";"84";"22";"2";"Treatment3";"29";"3";"Category3";"Trail1";"2022"
+"142";"213_Trial1";"G42";"73";"22";"3";"Treatment3";"29";"3";"Category3";"Trail1";"2022"
+"143";"214_Trial1";"G15";"91";"22";"4";"Treatment3";"29";"3";"Category2";"Trail1";"2022"
+"144";"215_Trial1";"G16";"71";"22";"5";"Treatment3";"29";"3";"Category1";"Trail1";"2022"
+"145";"216_Trial1";"G39";"92";"22";"6";"Treatment3";"29";"3";"Category2";"Trail1";"2022"
+"146";"217_Trial1";"G40";"75";"22";"7";"Treatment3";"29";"3";"Category3";"Trail1";"2022"
+"147";"218_Trial1";"G38";"69";"22";"8";"Treatment3";"29";"3";"Category2";"Trail1";"2022"
+"148";"219_Trial1";"G03";"82";"22";"9";"Treatment3";"29";"3";"Category2";"Trail1";"2022"
+"149";"22_Trial1";"G37";"88";"3";"9";"Treatment1";"3";"1";"Category2";"Trail1";"2022"
+"150";"22_Trial2";"G20 ";"37";"2";"8";"Treatment1";"41";"1";"Fill";"Trail2.1";"2022"
+"151";"220_Trial1";"G01";"64";"22";"10";"Treatment3";"29";"3";"Category1";"Trail1";"2022"
+"152";"221_Trial1";"G06";"77";"23";"10";"Treatment3";"30";"3";"Category3";"Trail1";"2022"
+"153";"222_Trial1";"G13";"87";"23";"9";"Treatment3";"30";"3";"Category3";"Trail1";"2022"
+"154";"223_Trial1";"G09";"65";"23";"8";"Treatment3";"30";"3";"Category2";"Trail1";"2022"
+"155";"224_Trial1";"G43";"89";"23";"7";"Treatment3";"30";"3";"Category1";"Trail1";"2022"
+"156";"225_Trial1";"G46";"83";"23";"6";"Treatment3";"30";"3";"Category2";"Trail1";"2022"
+"157";"226_Trial1";"G10";"74";"23";"5";"Treatment3";"30";"3";"Category1";"Trail1";"2022"
+"158";"227_Trial1";"G07";"93";"23";"4";"Treatment3";"30";"3";"Category1";"Trail1";"2022"
+"159";"228_Trial1";"G23";"68";"23";"3";"Treatment3";"30";"3";"Category2";"Trail1";"2022"
+"160";"229_Trial1";"G11";"72";"23";"2";"Treatment3";"30";"3";"Category2";"Trail1";"2022"
+"161";"23_Trial1";"G45";"78";"3";"8";"Treatment1";"3";"1";"Category3";"Trail1";"2022"
+"162";"23_Trial2";"G26";"25";"2";"9";"Treatment1";"41";"1";"Fill";"Trail2.1";"2022"
+"163";"230_Trial1";"G08";"70";"23";"1";"Treatment3";"30";"3";"Category1";"Trail1";"2022"
+"164";"231_Trial1";"G37";"88";"24";"1";"Treatment3";"31";"3";"Category2";"Trail1";"2022"
+"165";"232_Trial1";"G21";"80";"24";"2";"Treatment3";"31";"3";"Category2";"Trail1";"2022"
+"166";"233_Trial1";"G04";"81";"24";"3";"Treatment3";"31";"3";"Category3";"Trail1";"2022"
+"167";"234_Trial1";"G22";"66";"24";"4";"Treatment3";"31";"3";"Category1";"Trail1";"2022"
+"168";"235_Trial1";"G12";"79";"24";"5";"Treatment3";"31";"3";"Category3";"Trail1";"2022"
+"169";"236_Trial1";"G45";"78";"24";"6";"Treatment3";"31";"3";"Category3";"Trail1";"2022"
+"170";"237_Trial1";"G19";"76";"24";"7";"Treatment3";"31";"3";"Category3";"Trail1";"2022"
+"171";"238_Trial1";"G18";"67";"24";"8";"Treatment3";"31";"3";"Category3";"Trail1";"2022"
+"172";"239_Trial1";"G41";"85";"24";"9";"Treatment3";"31";"3";"Category2";"Trail1";"2022"
+"173";"24_Trial1";"G43";"89";"3";"7";"Treatment1";"3";"1";"Category1";"Trail1";"2022"
+"174";"24_Trial2";"G28";"28";"2";"10";"Treatment1";"41";"1";"Fill";"Trail2.1";"2022"
+"175";"240_Trial1";"G05";"86";"24";"10";"Treatment3";"31";"3";"Category2";"Trail1";"2022"
+"176";"241_Trial1";"G05";"86";"25";"10";"Treatment1";"33";"3";"Category2";"Trail1";"2022"
+"177";"242_Trial1";"G46";"83";"25";"9";"Treatment1";"33";"3";"Category2";"Trail1";"2022"
+"178";"243_Trial1";"G16";"71";"25";"8";"Treatment1";"33";"3";"Category1";"Trail1";"2022"
+"179";"244_Trial1";"G37";"88";"25";"7";"Treatment1";"33";"3";"Category2";"Trail1";"2022"
+"180";"245_Trial1";"G42";"73";"25";"6";"Treatment1";"33";"3";"Category3";"Trail1";"2022"
+"181";"246_Trial1";"G03";"82";"25";"5";"Treatment1";"33";"3";"Category2";"Trail1";"2022"
+"182";"247_Trial1";"G13";"87";"25";"4";"Treatment1";"33";"3";"Category3";"Trail1";"2022"
+"183";"248_Trial1";"G09";"65";"25";"3";"Treatment1";"33";"3";"Category2";"Trail1";"2022"
+"184";"249_Trial1";"G23";"68";"25";"2";"Treatment1";"33";"3";"Category2";"Trail1";"2022"
+"185";"25_Trial1";"G18";"67";"3";"6";"Treatment1";"3";"1";"Category3";"Trail1";"2022"
+"186";"25_Trial2";"G29";"32";"3";"10";"Treatment1";"42";"1";"Fill";"Trail2.1";"2022"
+"187";"250_Trial1";"G01";"64";"25";"1";"Treatment1";"33";"3";"Category1";"Trail1";"2022"
+"188";"251_Trial1";"G06";"77";"26";"1";"Treatment1";"34";"3";"Category3";"Trail1";"2022"
+"189";"252_Trial1";"G40";"75";"26";"2";"Treatment1";"34";"3";"Category3";"Trail1";"2022"
+"190";"253_Trial1";"G11";"72";"26";"3";"Treatment1";"34";"3";"Category2";"Trail1";"2022"
+"191";"254_Trial1";"G07";"93";"26";"4";"Treatment1";"34";"3";"Category1";"Trail1";"2022"
+"192";"255_Trial1";"G43";"89";"26";"5";"Treatment1";"34";"3";"Category1";"Trail1";"2022"
+"193";"256_Trial1";"G18";"67";"26";"6";"Treatment1";"34";"3";"Category3";"Trail1";"2022"
+"194";"257_Trial1";"G41";"85";"26";"7";"Treatment1";"34";"3";"Category2";"Trail1";"2022"
+"195";"258_Trial1";"G19";"76";"26";"8";"Treatment1";"34";"3";"Category3";"Trail1";"2022"
+"196";"259_Trial1";"G20";"84";"26";"9";"Treatment1";"34";"3";"Category3";"Trail1";"2022"
+"197";"26_Trial1";"G23";"68";"3";"5";"Treatment1";"3";"1";"Category2";"Trail1";"2022"
+"198";"26_Trial2";"G30";"26";"3";"9";"Treatment1";"42";"1";"Fill";"Trail2.1";"2022"
+"199";"260_Trial1";"G12";"79";"26";"10";"Treatment1";"34";"3";"Category3";"Trail1";"2022"
+"200";"261_Trial1";"G08";"70";"27";"10";"Treatment1";"35";"3";"Category1";"Trail1";"2022"
+"201";"262_Trial1";"G21";"80";"27";"9";"Treatment1";"35";"3";"Category2";"Trail1";"2022"
+"202";"263_Trial1";"G38";"69";"27";"8";"Treatment1";"35";"3";"Category2";"Trail1";"2022"
+"203";"264_Trial1";"G39";"92";"27";"7";"Treatment1";"35";"3";"Category2";"Trail1";"2022"
+"204";"265_Trial1";"G44";"90";"27";"6";"Treatment1";"35";"3";"Category1";"Trail1";"2022"
+"205";"266_Trial1";"G22";"66";"27";"5";"Treatment1";"35";"3";"Category1";"Trail1";"2022"
+"206";"267_Trial1";"G15";"91";"27";"4";"Treatment1";"35";"3";"Category2";"Trail1";"2022"
+"207";"268_Trial1";"G04";"81";"27";"3";"Treatment1";"35";"3";"Category3";"Trail1";"2022"
+"208";"269_Trial1";"G10";"74";"27";"2";"Treatment1";"35";"3";"Category1";"Trail1";"2022"
+"209";"27_Trial1";"G11";"72";"3";"4";"Treatment1";"3";"1";"Category2";"Trail1";"2022"
+"210";"27_Trial2";"G01";"24";"3";"8";"Treatment1";"42";"1";"Fill";"Trail2.1";"2022"
+"211";"270_Trial1";"G45";"78";"27";"1";"Treatment1";"35";"3";"Category3";"Trail1";"2022"
+"212";"28_Trial1";"G22";"66";"3";"3";"Treatment1";"3";"1";"Category1";"Trail1";"2022"
+"213";"28_Trial2";"G14";"33";"3";"7";"Treatment1";"42";"1";"Fill";"Trail2.1";"2022"
+"214";"29_Trial1";"G38";"69";"3";"2";"Treatment1";"3";"1";"Category2";"Trail1";"2022"
+"215";"29_Trial2";"G27";"35";"3";"6";"Treatment1";"42";"2";"Fill";"Trail2.1";"2022"
+"216";"3_Trial1";"G16";"71";"1";"8";"Treatment1";"1";"1";"Category1";"Trail1";"2022"
+"217";"3_Trial2";"G44";"38";"1";"8";"Treatment1";"40";"1";"Fill";"Trail2.1";"2022"
+"218";"30_Trial1";"G15";"91";"3";"1";"Treatment1";"3";"1";"Category2";"Trail1";"2022"
+"219";"30_Trial2";"G28";"28";"3";"5";"Treatment1";"42";"2";"Fill";"Trail2.1";"2022"
+"220";"31_Trial1";"G38";"69";"4";"1";"Treatment2";"5";"1";"Category2";"Trail1";"2022"
+"221";"31_Trial2";"G44";"38";"3";"4";"Treatment1";"42";"2";"Fill";"Trail2.1";"2022"
+"222";"32_Trial1";"G16";"71";"4";"2";"Treatment2";"5";"1";"Category1";"Trail1";"2022"
+"223";"32_Trial2";"G07";"36";"3";"3";"Treatment1";"42";"2";"Fill";"Trail2.1";"2022"
+"224";"33_Trial1";"G46";"83";"4";"3";"Treatment2";"5";"1";"Category2";"Trail1";"2022"
+"225";"33_Trial2";"G02";"30";"3";"2";"Treatment1";"42";"3";"Fill";"Trail2.1";"2022"
+"226";"34_Trial1";"G18";"67";"4";"4";"Treatment2";"5";"1";"Category3";"Trail1";"2022"
+"227";"34_Trial2";"G26";"25";"3";"1";"Treatment1";"42";"3";"Fill";"Trail2.1";"2022"
+"228";"35_Trial1";"G15";"91";"4";"5";"Treatment2";"5";"1";"Category2";"Trail1";"2022"
+"229";"35_Trial2";"G01";"24";"3";"0";"Treatment1";"42";"3";"Fill";"Trail2.1";"2022"
+"230";"36_Trial1";"G04";"81";"4";"6";"Treatment2";"5";"1";"Category3";"Trail1";"2022"
+"231";"36_Trial2";"G28";"28";"3";"-1";"Treatment1";"42";"3";"Fill";"Trail2.1";"2022"
+"232";"37_Trial1";"G10";"74";"4";"7";"Treatment2";"5";"1";"Category1";"Trail1";"2022"
+"233";"37_Trial2";"G25";"31";"4";"-1";"Treatment1";"43";"3";"Fill";"Trail2.1";"2022"
+"234";"38_Trial1";"G22";"66";"4";"8";"Treatment2";"5";"1";"Category1";"Trail1";"2022"
+"235";"38_Trial2";"G27";"35";"4";"0";"Treatment1";"43";"3";"Fill";"Trail2.1";"2022"
+"236";"39_Trial1";"G03";"82";"4";"9";"Treatment2";"5";"1";"Category2";"Trail1";"2022"
+"237";"39_Trial2";"G44";"38";"4";"1";"Treatment1";"43";"3";"Fill";"Trail2.1";"2022"
+"238";"4_Trial1";"G06";"77";"1";"7";"Treatment1";"1";"1";"Category3";"Trail1";"2022"
+"239";"4_Trial2";"G25";"31";"1";"7";"Treatment1";"40";"1";"Fill";"Trail2.1";"2022"
+"240";"40_Trial1";"G13";"87";"4";"10";"Treatment2";"5";"1";"Category3";"Trail1";"2022"
+"241";"40_Trial2";"G30";"26";"4";"2";"Treatment1";"43";"3";"Fill";"Trail2.1";"2022"
+"242";"41_Trial1";"G21";"80";"5";"10";"Treatment2";"6";"1";"Category2";"Trail1";"2022"
+"243";"41_Trial2";"G20 ";"37";"4";"3";"Treatment1";"43";"2";"Fill";"Trail2.1";"2022"
+"244";"42_Trial1";"G08";"70";"5";"9";"Treatment2";"6";"1";"Category1";"Trail1";"2022"
+"245";"42_Trial2";"G14";"33";"4";"4";"Treatment1";"43";"2";"Fill";"Trail2.1";"2022"
+"246";"43_Trial1";"G06";"77";"5";"8";"Treatment2";"6";"1";"Category3";"Trail1";"2022"
+"247";"43_Trial2";"G16";"29";"4";"5";"Treatment1";"43";"2";"Fill";"Trail2.1";"2022"
+"248";"44_Trial1";"G44";"90";"5";"7";"Treatment2";"6";"1";"Category1";"Trail1";"2022"
+"249";"44_Trial2";"G29";"32";"4";"6";"Treatment1";"43";"2";"Fill";"Trail2.1";"2022"
+"250";"45_Trial1";"G40";"75";"5";"6";"Treatment2";"6";"1";"Category3";"Trail1";"2022"
+"251";"45_Trial2";"G04";"34";"4";"7";"Treatment1";"43";"1";"Fill";"Trail2.1";"2022"
+"252";"46_Trial1";"G20";"84";"5";"5";"Treatment2";"6";"1";"Category3";"Trail1";"2022"
+"253";"46_Trial2";"G17";"39";"4";"8";"Treatment1";"43";"1";"Fill";"Trail2.1";"2022"
+"254";"47_Trial1";"G19";"76";"5";"4";"Treatment2";"6";"1";"Category3";"Trail1";"2022"
+"255";"47_Trial2";"G07";"36";"4";"9";"Treatment1";"43";"1";"Fill";"Trail2.1";"2022"
+"256";"48_Trial1";"G45";"78";"5";"3";"Treatment2";"6";"1";"Category3";"Trail1";"2022"
+"257";"48_Trial2";"G22";"27";"4";"10";"Treatment1";"43";"1";"Fill";"Trail2.1";"2022"
+"258";"49_Trial1";"G05";"86";"5";"2";"Treatment2";"6";"1";"Category2";"Trail1";"2022"
+"259";"49_Trial2";"G31";"16";"5";"10";"Treatment1";"44";"1";"Fill";"Trail2.2";"2022"
+"260";"5_Trial1";"G12";"79";"1";"6";"Treatment1";"1";"1";"Category3";"Trail1";"2022"
+"261";"5_Trial2";"G17";"39";"1";"6";"Treatment1";"40";"2";"Fill";"Trail2.1";"2022"
+"262";"50_Trial1";"G11";"72";"5";"1";"Treatment2";"6";"1";"Category2";"Trail1";"2022"
+"263";"50_Trial2";"G35";"Tp G35";"5";"9";"Treatment1";"44";"1";"Fill";"Fill";"2022"
+"264";"51_Trial1";"G07";"93";"6";"1";"Treatment2";"7";"1";"Category1";"Trail1";"2022"
+"265";"51_Trial2";"G35";"Tp G35";"5";"8";"Treatment1";"44";"1";"Fill";"Fill";"2022"
+"266";"52_Trial1";"G39";"92";"6";"2";"Treatment2";"7";"1";"Category2";"Trail1";"2022"
+"267";"52_Trial2";"G33";"10";"5";"7";"Treatment1";"44";"2";"Fill";"Trail2.2";"2022"
+"268";"53_Trial1";"G41";"85";"6";"3";"Treatment2";"7";"1";"Category2";"Trail1";"2022"
+"269";"53_Trial2";"G39";"22";"5";"6";"Treatment1";"44";"2";"Fill";"Trail2.2";"2022"
+"270";"54_Trial1";"G12";"79";"6";"4";"Treatment2";"7";"1";"Category3";"Trail1";"2022"
+"271";"54_Trial2";"G34";"12";"5";"5";"Treatment1";"44";"2";"Fill";"Trail2.2";"2022"
+"272";"55_Trial1";"G01";"64";"6";"5";"Treatment2";"7";"1";"Category1";"Trail1";"2022"
+"273";"55_Trial2";"G32";"14";"5";"4";"Treatment1";"44";"3";"Fill";"Trail2.2";"2022"
+"274";"56_Trial1";"G37";"88";"6";"6";"Treatment2";"7";"1";"Category2";"Trail1";"2022"
+"275";"56_Trial2";"G36 ";"18";"5";"3";"Treatment1";"44";"3";"Fill";"Trail2.2";"2022"
+"276";"57_Trial1";"G23";"68";"6";"7";"Treatment2";"7";"1";"Category2";"Trail1";"2022"
+"277";"57_Trial2";"G05";"20";"5";"2";"Treatment1";"44";"3";"Fill";"Trail2.2";"2022"
+"278";"58_Trial1";"G43";"89";"6";"8";"Treatment2";"7";"1";"Category1";"Trail1";"2022"
+"279";"58_Trial2";"G35";"Tp G35";"6";"2";"Treatment1";"45";"3";"Fill";"Fill";"2022"
+"280";"59_Trial1";"G09";"65";"6";"9";"Treatment2";"7";"1";"Category2";"Trail1";"2022"
+"281";"59_Trial2";"G31";"16";"6";"3";"Treatment1";"45";"3";"Fill";"Trail2.2";"2022"
+"282";"6_Trial1";"G10";"74";"1";"5";"Treatment1";"1";"1";"Category1";"Trail1";"2022"
+"283";"6_Trial2";"G30";"26";"1";"5";"Treatment1";"40";"2";"Fill";"Trail2.1";"2022"
+"284";"60_Trial1";"G42";"73";"6";"10";"Treatment2";"7";"1";"Category3";"Trail1";"2022"
+"285";"60_Trial2";"G39";"22";"6";"4";"Treatment1";"45";"3";"Fill";"Trail2.2";"2022"
+"286";"61_Trial1";"G20";"84";"7";"10";"Treatment3";"9";"1";"Category3";"Trail1";"2022"
+"287";"61_Trial2";"G35";"Tp G35";"6";"5";"Treatment1";"45";"2";"Fill";"Fill";"2022"
+"288";"62_Trial1";"G18";"67";"7";"9";"Treatment3";"9";"1";"Category3";"Trail1";"2022"
+"289";"62_Trial2";"G05";"20";"6";"6";"Treatment1";"45";"2";"Fill";"Trail2.2";"2022"
+"290";"63_Trial1";"G01";"64";"7";"8";"Treatment3";"9";"1";"Category1";"Trail1";"2022"
+"291";"63_Trial2";"G35";"Tp G35";"6";"7";"Treatment1";"45";"2";"Fill";"Fill";"2022"
+"292";"64_Trial1";"G04";"81";"7";"7";"Treatment3";"9";"1";"Category3";"Trail1";"2022"
+"293";"64_Trial2";"G39";"22";"6";"8";"Treatment1";"45";"1";"Fill";"Trail2.2";"2022"
+"294";"65_Trial1";"G40";"75";"7";"6";"Treatment3";"9";"1";"Category3";"Trail1";"2022"
+"295";"65_Trial2";"G36 ";"18";"6";"9";"Treatment1";"45";"1";"Fill";"Trail2.2";"2022"
+"296";"66_Trial1";"G15";"91";"7";"5";"Treatment3";"9";"1";"Category2";"Trail1";"2022"
+"297";"66_Trial2";"G34";"12";"6";"10";"Treatment1";"45";"1";"Fill";"Trail2.2";"2022"
+"298";"67_Trial1";"G44";"90";"7";"4";"Treatment3";"9";"1";"Category1";"Trail1";"2022"
+"299";"67_Trial2";"G32";"14";"7";"10";"Treatment1";"46";"1";"Fill";"Trail2.2";"2022"
+"300";"68_Trial1";"G12";"79";"7";"3";"Treatment3";"9";"1";"Category3";"Trail1";"2022"
+"301";"68_Trial2";"G05";"20";"7";"9";"Treatment1";"46";"1";"Fill";"Trail2.2";"2022"
+"302";"69_Trial1";"G42";"73";"7";"2";"Treatment3";"9";"1";"Category3";"Trail1";"2022"
+"303";"69_Trial2";"G33";"10";"7";"8";"Treatment1";"46";"1";"Fill";"Trail2.2";"2022"
+"304";"7_Trial1";"G41";"85";"1";"4";"Treatment1";"1";"1";"Category2";"Trail1";"2022"
+"305";"7_Trial2";"G22";"27";"1";"4";"Treatment1";"40";"2";"Fill";"Trail2.1";"2022"
+"306";"70_Trial1";"G43";"89";"7";"1";"Treatment3";"9";"1";"Category1";"Trail1";"2022"
+"307";"70_Trial2";"G36 ";"18";"7";"7";"Treatment1";"46";"2";"Fill";"Trail2.2";"2022"
+"308";"71_Trial1";"G08";"70";"8";"1";"Treatment3";"10";"1";"Category1";"Trail1";"2022"
+"309";"71_Trial2";"G31";"16";"7";"6";"Treatment1";"46";"2";"Fill";"Trail2.2";"2022"
+"310";"72_Trial1";"G06";"77";"8";"2";"Treatment3";"10";"1";"Category3";"Trail1";"2022"
+"311";"72_Trial2";"G32";"14";"7";"5";"Treatment1";"46";"2";"Fill";"Trail2.2";"2022"
+"312";"73_Trial1";"G16";"71";"8";"3";"Treatment3";"10";"1";"Category1";"Trail1";"2022"
+"313";"73_Trial2";"G35";"Tp G35";"7";"4";"Treatment1";"46";"3";"Fill";"Fill";"2022"
+"314";"74_Trial1";"G38";"69";"8";"4";"Treatment3";"10";"1";"Category2";"Trail1";"2022"
+"315";"74_Trial2";"G33";"10";"7";"3";"Treatment1";"46";"3";"Fill";"Trail2.2";"2022"
+"316";"75_Trial1";"G13";"87";"8";"5";"Treatment3";"10";"1";"Category3";"Trail1";"2022"
+"317";"75_Trial2";"G34";"12";"7";"2";"Treatment1";"46";"3";"Fill";"Trail2.2";"2022"
+"318";"76_Trial1";"G07";"93";"8";"6";"Treatment3";"10";"1";"Category1";"Trail1";"2022"
+"319";"77_Trial1";"G23";"68";"8";"7";"Treatment3";"10";"1";"Category2";"Trail1";"2022"
+"320";"78_Trial1";"G21";"80";"8";"8";"Treatment3";"10";"1";"Category2";"Trail1";"2022"
+"321";"79_Trial1";"G45";"78";"8";"9";"Treatment3";"10";"1";"Category3";"Trail1";"2022"
+"322";"8_Trial1";"G08";"70";"1";"3";"Treatment1";"1";"1";"Category1";"Trail1";"2022"
+"323";"8_Trial2";"G01";"24";"1";"3";"Treatment1";"40";"2";"Fill";"Trail2.1";"2022"
+"324";"80_Trial1";"G22";"66";"8";"10";"Treatment3";"10";"1";"Category1";"Trail1";"2022"
+"325";"81_Trial1";"G11";"72";"9";"10";"Treatment3";"11";"1";"Category2";"Trail1";"2022"
+"326";"82_Trial1";"G19";"76";"9";"9";"Treatment3";"11";"1";"Category3";"Trail1";"2022"
+"327";"83_Trial1";"G05";"86";"9";"8";"Treatment3";"11";"1";"Category2";"Trail1";"2022"
+"328";"84_Trial1";"G37";"88";"9";"7";"Treatment3";"11";"1";"Category2";"Trail1";"2022"
+"329";"85_Trial1";"G10";"74";"9";"6";"Treatment3";"11";"1";"Category1";"Trail1";"2022"
+"330";"86_Trial1";"G03";"82";"9";"5";"Treatment3";"11";"1";"Category2";"Trail1";"2022"
+"331";"87_Trial1";"G41";"85";"9";"4";"Treatment3";"11";"1";"Category2";"Trail1";"2022"
+"332";"88_Trial1";"G09";"65";"9";"3";"Treatment3";"11";"1";"Category2";"Trail1";"2022"
+"333";"89_Trial1";"G46";"83";"9";"2";"Treatment3";"11";"1";"Category2";"Trail1";"2022"
+"334";"9_Trial1";"G42";"73";"1";"2";"Treatment1";"1";"1";"Category3";"Trail1";"2022"
+"335";"9_Trial2";"G29";"32";"1";"2";"Treatment1";"40";"3";"Fill";"Trail2.1";"2022"
+"336";"90_Trial1";"G39";"92";"9";"1";"Treatment3";"11";"1";"Category2";"Trail1";"2022"
+"337";"91_Trial1";"G19";"76";"10";"1";"Treatment1";"13";"2";"Category3";"Trail1";"2022"
+"338";"92_Trial1";"G23";"68";"10";"2";"Treatment1";"13";"2";"Category2";"Trail1";"2022"
+"339";"93_Trial1";"G13";"87";"10";"3";"Treatment1";"13";"2";"Category3";"Trail1";"2022"
+"340";"94_Trial1";"G16";"71";"10";"4";"Treatment1";"13";"2";"Category1";"Trail1";"2022"
+"341";"95_Trial1";"G18";"67";"10";"5";"Treatment1";"13";"2";"Category3";"Trail1";"2022"
+"342";"96_Trial1";"G15";"91";"10";"6";"Treatment1";"13";"2";"Category2";"Trail1";"2022"
+"343";"97_Trial1";"G20";"84";"10";"7";"Treatment1";"13";"2";"Category3";"Trail1";"2022"
+"344";"98_Trial1";"G22";"66";"10";"8";"Treatment1";"13";"2";"Category1";"Trail1";"2022"
+"345";"99_Trial1";"G21";"80";"10";"9";"Treatment1";"13";"2";"Category2";"Trail1";"2022"
+"346";"Fill_001";"Fill";"Fill";"-1";"1";"Fill";"-1";"0";"Fill";"Fill";"2022"
+"347";"Fill_002";"Fill";"Fill";"-1";"2";"Fill";"-1";"0";"Fill";"Fill";"2022"
+"348";"Fill_003";"Fill";"Fill";"-1";"3";"Fill";"-1";"0";"Fill";"Fill";"2022"
+"349";"Fill_004";"Fill";"Fill";"-1";"4";"Fill";"-1";"0";"Fill";"Fill";"2022"
+"350";"Fill_005";"Fill";"Fill";"-1";"5";"Fill";"-1";"0";"Fill";"Fill";"2022"
+"351";"Fill_006";"Fill";"Fill";"-1";"6";"Fill";"-1";"0";"Fill";"Fill";"2022"
+"352";"Fill_007";"Fill";"Fill";"-1";"7";"Fill";"-1";"0";"Fill";"Fill";"2022"
+"353";"Fill_008";"Fill";"Fill";"-1";"8";"Fill";"-1";"0";"Fill";"Fill";"2022"
+"354";"Fill_009";"Fill";"Fill";"-1";"9";"Fill";"-1";"0";"Fill";"Fill";"2022"
+"355";"Fill_010";"Fill";"Fill";"-1";"10";"Fill";"-1";"0";"Fill";"Fill";"2022"
+"356";"Fill_011";"Fill";"Fill";"-1";"0";"Fill";"-1";"0";"Fill";"Fill";"2022"
+"357";"Fill_012";"Fill";"Fill";"-1";"-1";"Fill";"-1";"0";"Fill";"Fill";"2022"
+"358";"Fill_013";"Fill";"Fill";"0";"-1";"Fill";"0";"0";"Fill";"Fill";"2022"
+"359";"Fill_014";"Fill";"Fill";"0";"0";"Fill";"0";"0";"Fill";"Fill";"2022"
+"360";"Fill_015";"Fill";"Fill";"0";"10";"Fill";"0";"0";"Fill";"Fill";"2022"
+"361";"Fill_016";"Fill";"Fill";"0";"9";"Fill";"0";"0";"Fill";"Fill";"2022"
+"362";"Fill_017";"Fill";"Fill";"0";"8";"Fill";"0";"0";"Fill";"Fill";"2022"
+"363";"Fill_018";"Fill";"Fill";"0";"7";"Fill";"0";"0";"Fill";"Fill";"2022"
+"364";"Fill_019";"Fill";"Fill";"0";"6";"Fill";"0";"0";"Fill";"Fill";"2022"
+"365";"Fill_020";"Fill";"Fill";"0";"5";"Fill";"0";"0";"Fill";"Fill";"2022"
+"366";"Fill_021";"Fill";"Fill";"0";"4";"Fill";"0";"0";"Fill";"Fill";"2022"
+"367";"Fill_022";"Fill";"Fill";"0";"3";"Fill";"0";"0";"Fill";"Fill";"2022"
+"368";"Fill_023";"Fill";"Fill";"0";"2";"Fill";"0";"0";"Fill";"Fill";"2022"
+"369";"Fill_024";"Fill";"Fill";"0";"1";"Fill";"0";"0";"Fill";"Fill";"2022"
+"370";"Fill_025";"Fill";"Fill";"1";"0";"Fill";"1";"0";"Fill";"Fill";"2022"
+"371";"Fill_026";"Fill";"Fill";"1";"-1";"Fill";"1";"0";"Fill";"Fill";"2022"
+"372";"Fill_027";"Fill";"Fill";"2";"-1";"Fill";"2";"0";"Fill";"Fill";"2022"
+"373";"Fill_028";"Fill";"Fill";"2";"0";"Fill";"2";"0";"Fill";"Fill";"2022"
+"374";"Fill_029";"Fill";"Fill";"3";"0";"Fill";"3";"0";"Fill";"Fill";"2022"
+"375";"Fill_030";"Fill";"Fill";"3";"-1";"Fill";"3";"0";"Fill";"Fill";"2022"
+"376";"Fill_031";"Fill";"Fill";"4";"-1";"Fill";"4";"0";"Fill";"Fill";"2022"
+"377";"Fill_032";"Fill";"Fill";"4";"0";"Fill";"4";"0";"Fill";"Fill";"2022"
+"378";"Fill_033";"Fill";"Fill";"4";"10";"Fill";"4";"0";"Fill";"Fill";"2022"
+"379";"Fill_034";"Fill";"Fill";"4";"9";"Fill";"4";"0";"Fill";"Fill";"2022"
+"380";"Fill_035";"Fill";"Fill";"4";"8";"Fill";"4";"0";"Fill";"Fill";"2022"
+"381";"Fill_036";"Fill";"Fill";"4";"7";"Fill";"4";"0";"Fill";"Fill";"2022"
+"382";"Fill_037";"Fill";"Fill";"4";"6";"Fill";"4";"0";"Fill";"Fill";"2022"
+"383";"Fill_038";"Fill";"Fill";"4";"5";"Fill";"4";"0";"Fill";"Fill";"2022"
+"384";"Fill_039";"Fill";"Fill";"4";"4";"Fill";"4";"0";"Fill";"Fill";"2022"
+"385";"Fill_040";"Fill";"Fill";"4";"3";"Fill";"4";"0";"Fill";"Fill";"2022"
+"386";"Fill_041";"Fill";"Fill";"4";"2";"Fill";"4";"0";"Fill";"Fill";"2022"
+"387";"Fill_042";"Fill";"Fill";"4";"1";"Fill";"4";"0";"Fill";"Fill";"2022"
+"388";"Fill_043";"Fill";"Fill";"5";"0";"Fill";"5";"0";"Fill";"Fill";"2022"
+"389";"Fill_044";"Fill";"Fill";"5";"-1";"Fill";"5";"0";"Fill";"Fill";"2022"
+"390";"Fill_045";"Fill";"Fill";"6";"-1";"Fill";"6";"0";"Fill";"Fill";"2022"
+"391";"Fill_046";"Fill";"Fill";"6";"0";"Fill";"6";"0";"Fill";"Fill";"2022"
+"392";"Fill_047";"Fill";"Fill";"7";"0";"Fill";"7";"0";"Fill";"Fill";"2022"
+"393";"Fill_048";"Fill";"Fill";"7";"-1";"Fill";"7";"0";"Fill";"Fill";"2022"
+"394";"Fill_049";"Fill";"Fill";"8";"-1";"Fill";"8";"0";"Fill";"Fill";"2022"
+"395";"Fill_050";"Fill";"Fill";"8";"0";"Fill";"8";"0";"Fill";"Fill";"2022"
+"396";"Fill_051";"Fill";"Fill";"8";"10";"Fill";"8";"0";"Fill";"Fill";"2022"
+"397";"Fill_052";"Fill";"Fill";"8";"9";"Fill";"8";"0";"Fill";"Fill";"2022"
+"398";"Fill_053";"Fill";"Fill";"8";"8";"Fill";"8";"0";"Fill";"Fill";"2022"
+"399";"Fill_054";"Fill";"Fill";"8";"7";"Fill";"8";"0";"Fill";"Fill";"2022"
+"400";"Fill_055";"Fill";"Fill";"8";"6";"Fill";"8";"0";"Fill";"Fill";"2022"
+"401";"Fill_056";"Fill";"Fill";"8";"5";"Fill";"8";"0";"Fill";"Fill";"2022"
+"402";"Fill_057";"Fill";"Fill";"8";"4";"Fill";"8";"0";"Fill";"Fill";"2022"
+"403";"Fill_058";"Fill";"Fill";"8";"3";"Fill";"8";"0";"Fill";"Fill";"2022"
+"404";"Fill_059";"Fill";"Fill";"8";"2";"Fill";"8";"0";"Fill";"Fill";"2022"
+"405";"Fill_060";"Fill";"Fill";"8";"1";"Fill";"8";"0";"Fill";"Fill";"2022"
+"406";"Fill_061";"Fill";"Fill";"9";"0";"Fill";"9";"0";"Fill";"Fill";"2022"
+"407";"Fill_062";"Fill";"Fill";"9";"-1";"Fill";"9";"0";"Fill";"Fill";"2022"
+"408";"Fill_063";"Fill";"Fill";"10";"-1";"Fill";"10";"0";"Fill";"Fill";"2022"
+"409";"Fill_064";"Fill";"Fill";"10";"0";"Fill";"10";"0";"Fill";"Fill";"2022"
+"410";"Fill_065";"Fill";"Fill";"11";"0";"Fill";"11";"0";"Fill";"Fill";"2022"
+"411";"Fill_066";"Fill";"Fill";"11";"-1";"Fill";"11";"0";"Fill";"Fill";"2022"
+"412";"Fill_067";"Fill";"Fill";"12";"-1";"Fill";"12";"0";"Fill";"Fill";"2022"
+"413";"Fill_068";"Fill";"Fill";"12";"0";"Fill";"12";"0";"Fill";"Fill";"2022"
+"414";"Fill_069";"Fill";"Fill";"12";"10";"Fill";"12";"0";"Fill";"Fill";"2022"
+"415";"Fill_070";"Fill";"Fill";"12";"9";"Fill";"12";"0";"Fill";"Fill";"2022"
+"416";"Fill_071";"Fill";"Fill";"12";"8";"Fill";"12";"0";"Fill";"Fill";"2022"
+"417";"Fill_072";"Fill";"Fill";"12";"7";"Fill";"12";"0";"Fill";"Fill";"2022"
+"418";"Fill_073";"Fill";"Fill";"12";"6";"Fill";"12";"0";"Fill";"Fill";"2022"
+"419";"Fill_074";"Fill";"Fill";"12";"5";"Fill";"12";"0";"Fill";"Fill";"2022"
+"420";"Fill_075";"Fill";"Fill";"12";"4";"Fill";"12";"0";"Fill";"Fill";"2022"
+"421";"Fill_076";"Fill";"Fill";"12";"3";"Fill";"12";"0";"Fill";"Fill";"2022"
+"422";"Fill_077";"Fill";"Fill";"12";"2";"Fill";"12";"0";"Fill";"Fill";"2022"
+"423";"Fill_078";"Fill";"Fill";"12";"1";"Fill";"12";"0";"Fill";"Fill";"2022"
+"424";"Fill_079";"Fill";"Fill";"13";"0";"Fill";"13";"0";"Fill";"Fill";"2022"
+"425";"Fill_080";"Fill";"Fill";"13";"-1";"Fill";"13";"0";"Fill";"Fill";"2022"
+"426";"Fill_081";"Fill";"Fill";"14";"-1";"Fill";"14";"0";"Fill";"Fill";"2022"
+"427";"Fill_082";"Fill";"Fill";"14";"0";"Fill";"14";"0";"Fill";"Fill";"2022"
+"428";"Fill_083";"Fill";"Fill";"15";"0";"Fill";"15";"0";"Fill";"Fill";"2022"
+"429";"Fill_084";"Fill";"Fill";"15";"-1";"Fill";"15";"0";"Fill";"Fill";"2022"
+"430";"Fill_085";"Fill";"Fill";"16";"-1";"Fill";"16";"0";"Fill";"Fill";"2022"
+"431";"Fill_086";"Fill";"Fill";"16";"0";"Fill";"16";"0";"Fill";"Fill";"2022"
+"432";"Fill_087";"Fill";"Fill";"16";"10";"Fill";"16";"0";"Fill";"Fill";"2022"
+"433";"Fill_088";"Fill";"Fill";"16";"9";"Fill";"16";"0";"Fill";"Fill";"2022"
+"434";"Fill_089";"Fill";"Fill";"16";"8";"Fill";"16";"0";"Fill";"Fill";"2022"
+"435";"Fill_090";"Fill";"Fill";"16";"7";"Fill";"16";"0";"Fill";"Fill";"2022"
+"436";"Fill_091";"Fill";"Fill";"16";"6";"Fill";"16";"0";"Fill";"Fill";"2022"
+"437";"Fill_092";"Fill";"Fill";"16";"5";"Fill";"16";"0";"Fill";"Fill";"2022"
+"438";"Fill_093";"Fill";"Fill";"16";"4";"Fill";"16";"0";"Fill";"Fill";"2022"
+"439";"Fill_094";"Fill";"Fill";"16";"3";"Fill";"16";"0";"Fill";"Fill";"2022"
+"440";"Fill_095";"Fill";"Fill";"16";"2";"Fill";"16";"0";"Fill";"Fill";"2022"
+"441";"Fill_096";"Fill";"Fill";"16";"1";"Fill";"16";"0";"Fill";"Fill";"2022"
+"442";"Fill_097";"Fill";"Fill";"17";"0";"Fill";"17";"0";"Fill";"Fill";"2022"
+"443";"Fill_098";"Fill";"Fill";"17";"-1";"Fill";"17";"0";"Fill";"Fill";"2022"
+"444";"Fill_099";"Fill";"Fill";"18";"-1";"Fill";"18";"0";"Fill";"Fill";"2022"
+"445";"Fill_100";"Fill";"Fill";"18";"0";"Fill";"18";"0";"Fill";"Fill";"2022"
+"446";"Fill_101";"Fill";"Fill";"19";"0";"Fill";"19";"0";"Fill";"Fill";"2022"
+"447";"Fill_102";"Fill";"Fill";"19";"-1";"Fill";"19";"0";"Fill";"Fill";"2022"
+"448";"Fill_103";"Fill";"Fill";"20";"-1";"Fill";"20";"0";"Fill";"Fill";"2022"
+"449";"Fill_104";"Fill";"Fill";"20";"0";"Fill";"20";"0";"Fill";"Fill";"2022"
+"450";"Fill_105";"Fill";"Fill";"20";"10";"Fill";"20";"0";"Fill";"Fill";"2022"
+"451";"Fill_106";"Fill";"Fill";"20";"9";"Fill";"20";"0";"Fill";"Fill";"2022"
+"452";"Fill_107";"Fill";"Fill";"20";"8";"Fill";"20";"0";"Fill";"Fill";"2022"
+"453";"Fill_108";"Fill";"Fill";"20";"7";"Fill";"20";"0";"Fill";"Fill";"2022"
+"454";"Fill_109";"Fill";"Fill";"20";"6";"Fill";"20";"0";"Fill";"Fill";"2022"
+"455";"Fill_110";"Fill";"Fill";"20";"5";"Fill";"20";"0";"Fill";"Fill";"2022"
+"456";"Fill_111";"Fill";"Fill";"20";"4";"Fill";"20";"0";"Fill";"Fill";"2022"
+"457";"Fill_112";"Fill";"Fill";"20";"3";"Fill";"20";"0";"Fill";"Fill";"2022"
+"458";"Fill_113";"Fill";"Fill";"20";"2";"Fill";"20";"0";"Fill";"Fill";"2022"
+"459";"Fill_114";"Fill";"Fill";"20";"1";"Fill";"20";"0";"Fill";"Fill";"2022"
+"460";"Fill_115";"Fill";"Fill";"21";"0";"Fill";"21";"0";"Fill";"Fill";"2022"
+"461";"Fill_116";"Fill";"Fill";"21";"-1";"Fill";"21";"0";"Fill";"Fill";"2022"
+"462";"Fill_117";"Fill";"Fill";"22";"-1";"Fill";"22";"0";"Fill";"Fill";"2022"
+"463";"Fill_118";"Fill";"Fill";"22";"0";"Fill";"22";"0";"Fill";"Fill";"2022"
+"464";"Fill_119";"Fill";"Fill";"23";"0";"Fill";"23";"0";"Fill";"Fill";"2022"
+"465";"Fill_120";"Fill";"Fill";"23";"-1";"Fill";"23";"0";"Fill";"Fill";"2022"
+"466";"Fill_121";"Fill";"Fill";"24";"-1";"Fill";"24";"0";"Fill";"Fill";"2022"
+"467";"Fill_122";"Fill";"Fill";"24";"0";"Fill";"24";"0";"Fill";"Fill";"2022"
+"468";"Fill_123";"Fill";"Fill";"24";"10";"Fill";"24";"0";"Fill";"Fill";"2022"
+"469";"Fill_124";"Fill";"Fill";"24";"9";"Fill";"24";"0";"Fill";"Fill";"2022"
+"470";"Fill_125";"Fill";"Fill";"24";"8";"Fill";"24";"0";"Fill";"Fill";"2022"
+"471";"Fill_126";"Fill";"Fill";"24";"7";"Fill";"24";"0";"Fill";"Fill";"2022"
+"472";"Fill_127";"Fill";"Fill";"24";"6";"Fill";"24";"0";"Fill";"Fill";"2022"
+"473";"Fill_128";"Fill";"Fill";"24";"5";"Fill";"24";"0";"Fill";"Fill";"2022"
+"474";"Fill_129";"Fill";"Fill";"24";"4";"Fill";"24";"0";"Fill";"Fill";"2022"
+"475";"Fill_130";"Fill";"Fill";"24";"3";"Fill";"24";"0";"Fill";"Fill";"2022"
+"476";"Fill_131";"Fill";"Fill";"24";"2";"Fill";"24";"0";"Fill";"Fill";"2022"
+"477";"Fill_132";"Fill";"Fill";"24";"1";"Fill";"24";"0";"Fill";"Fill";"2022"
+"478";"Fill_133";"Fill";"Fill";"25";"0";"Fill";"25";"0";"Fill";"Fill";"2022"
+"479";"Fill_134";"Fill";"Fill";"25";"-1";"Fill";"25";"0";"Fill";"Fill";"2022"
+"480";"Fill_135";"Fill";"Fill";"26";"-1";"Fill";"26";"0";"Fill";"Fill";"2022"
+"481";"Fill_136";"Fill";"Fill";"26";"0";"Fill";"26";"0";"Fill";"Fill";"2022"
+"482";"Fill_137";"Fill";"Fill";"27";"0";"Fill";"27";"0";"Fill";"Fill";"2022"
+"483";"Fill_138";"Fill";"Fill";"27";"-1";"Fill";"27";"0";"Fill";"Fill";"2022"
+"484";"Fill_139";"Fill";"Fill";"28";"-1";"Fill";"28";"0";"Fill";"Fill";"2022"
+"485";"Fill_140";"Fill";"Fill";"28";"0";"Fill";"28";"0";"Fill";"Fill";"2022"
+"486";"Fill_141";"Fill";"Fill";"28";"10";"Fill";"28";"0";"Fill";"Fill";"2022"
+"487";"Fill_142";"Fill";"Fill";"28";"9";"Fill";"28";"0";"Fill";"Fill";"2022"
+"488";"Fill_143";"Fill";"Fill";"28";"8";"Fill";"28";"0";"Fill";"Fill";"2022"
+"489";"Fill_144";"Fill";"Fill";"28";"7";"Fill";"28";"0";"Fill";"Fill";"2022"
+"490";"Fill_145";"Fill";"Fill";"28";"6";"Fill";"28";"0";"Fill";"Fill";"2022"
+"491";"Fill_146";"Fill";"Fill";"28";"5";"Fill";"28";"0";"Fill";"Fill";"2022"
+"492";"Fill_147";"Fill";"Fill";"28";"4";"Fill";"28";"0";"Fill";"Fill";"2022"
+"493";"Fill_148";"Fill";"Fill";"28";"3";"Fill";"28";"0";"Fill";"Fill";"2022"
+"494";"Fill_149";"Fill";"Fill";"28";"2";"Fill";"28";"0";"Fill";"Fill";"2022"
+"495";"Fill_150";"Fill";"Fill";"28";"1";"Fill";"28";"0";"Fill";"Fill";"2022"
+"496";"Fill_151";"Fill";"Fill";"29";"0";"Fill";"29";"0";"Fill";"Fill";"2022"
+"497";"Fill_152";"Fill";"Fill";"29";"-1";"Fill";"29";"0";"Fill";"Fill";"2022"
+"498";"Fill_153";"Fill";"Fill";"30";"-1";"Fill";"30";"0";"Fill";"Fill";"2022"
+"499";"Fill_154";"Fill";"Fill";"30";"0";"Fill";"30";"0";"Fill";"Fill";"2022"
+"500";"Fill_155";"Fill";"Fill";"31";"0";"Fill";"31";"0";"Fill";"Fill";"2022"
+"501";"Fill_156";"Fill";"Fill";"31";"-1";"Fill";"31";"0";"Fill";"Fill";"2022"
+"502";"Fill_157";"Fill";"Fill";"32";"-1";"Fill";"32";"0";"Fill";"Fill";"2022"
+"503";"Fill_158";"Fill";"Fill";"32";"0";"Fill";"32";"0";"Fill";"Fill";"2022"
+"504";"Fill_159";"Fill";"Fill";"32";"10";"Fill";"32";"0";"Fill";"Fill";"2022"
+"505";"Fill_160";"Fill";"Fill";"32";"9";"Fill";"32";"0";"Fill";"Fill";"2022"
+"506";"Fill_161";"Fill";"Fill";"32";"8";"Fill";"32";"0";"Fill";"Fill";"2022"
+"507";"Fill_162";"Fill";"Fill";"32";"7";"Fill";"32";"0";"Fill";"Fill";"2022"
+"508";"Fill_163";"Fill";"Fill";"32";"6";"Fill";"32";"0";"Fill";"Fill";"2022"
+"509";"Fill_164";"Fill";"Fill";"32";"5";"Fill";"32";"0";"Fill";"Fill";"2022"
+"510";"Fill_165";"Fill";"Fill";"32";"4";"Fill";"32";"0";"Fill";"Fill";"2022"
+"511";"Fill_166";"Fill";"Fill";"32";"3";"Fill";"32";"0";"Fill";"Fill";"2022"
+"512";"Fill_167";"Fill";"Fill";"32";"2";"Fill";"32";"0";"Fill";"Fill";"2022"
+"513";"Fill_168";"Fill";"Fill";"32";"1";"Fill";"32";"0";"Fill";"Fill";"2022"
+"514";"Fill_169";"Fill";"Fill";"33";"0";"Fill";"33";"0";"Fill";"Fill";"2022"
+"515";"Fill_170";"Fill";"Fill";"33";"-1";"Fill";"33";"0";"Fill";"Fill";"2022"
+"516";"Fill_171";"Fill";"Fill";"34";"-1";"Fill";"34";"0";"Fill";"Fill";"2022"
+"517";"Fill_172";"Fill";"Fill";"34";"0";"Fill";"34";"0";"Fill";"Fill";"2022"
+"518";"Fill_173";"Fill";"Fill";"35";"0";"Fill";"35";"0";"Fill";"Fill";"2022"
+"519";"Fill_174";"Fill";"Fill";"35";"-1";"Fill";"35";"0";"Fill";"Fill";"2022"
+"520";"Fill_175";"Fill";"Fill";"36";"-1";"Fill";"36";"0";"Fill";"Fill";"2022"
+"521";"Fill_176";"Fill";"Fill";"36";"0";"Fill";"36";"0";"Fill";"Fill";"2022"
+"522";"Fill_177";"Fill";"Fill";"36";"10";"Fill";"36";"0";"Fill";"Fill";"2022"
+"523";"Fill_178";"Fill";"Fill";"36";"9";"Fill";"36";"0";"Fill";"Fill";"2022"
+"524";"Fill_179";"Fill";"Fill";"36";"8";"Fill";"36";"0";"Fill";"Fill";"2022"
+"525";"Fill_180";"Fill";"Fill";"36";"7";"Fill";"36";"0";"Fill";"Fill";"2022"
+"526";"Fill_181";"Fill";"Fill";"36";"6";"Fill";"36";"0";"Fill";"Fill";"2022"
+"527";"Fill_182";"Fill";"Fill";"36";"5";"Fill";"36";"0";"Fill";"Fill";"2022"
+"528";"Fill_183";"Fill";"Fill";"36";"4";"Fill";"36";"0";"Fill";"Fill";"2022"
+"529";"Fill_184";"Fill";"Fill";"36";"3";"Fill";"36";"0";"Fill";"Fill";"2022"
+"530";"Fill_185";"Fill";"Fill";"36";"2";"Fill";"36";"0";"Fill";"Fill";"2022"
+"531";"Fill_186";"Fill";"Fill";"36";"1";"Fill";"36";"0";"Fill";"Fill";"2022"
+"532";"Fill_187";"Fill";"Fill";"37";"1";"Fill";"37";"0";"Fill";"Fill";"2022"
+"533";"Fill_188";"Fill";"Fill";"37";"2";"Fill";"37";"0";"Fill";"Fill";"2022"
+"534";"Fill_189";"Fill";"Fill";"37";"3";"Fill";"37";"0";"Fill";"Fill";"2022"
+"535";"Fill_190";"Fill";"Fill";"37";"4";"Fill";"37";"0";"Fill";"Fill";"2022"
+"536";"Fill_191";"Fill";"Fill";"37";"5";"Fill";"37";"0";"Fill";"Fill";"2022"
+"537";"Fill_192";"Fill";"Fill";"37";"6";"Fill";"37";"0";"Fill";"Fill";"2022"
+"538";"Fill_193";"Fill";"Fill";"37";"7";"Fill";"37";"0";"Fill";"Fill";"2022"
+"539";"Fill_194";"Fill";"Fill";"37";"8";"Fill";"37";"0";"Fill";"Fill";"2022"
+"540";"Fill_195";"Fill";"Fill";"37";"9";"Fill";"37";"0";"Fill";"Fill";"2022"
+"541";"Fill_196";"Fill";"Fill";"37";"10";"Fill";"37";"0";"Fill";"Fill";"2022"
+"542";"Fill_197";"Fill";"Fill";"37";"0";"Fill";"37";"0";"Fill";"Fill";"2022"
+"543";"Fill_198";"Fill";"Fill";"37";"-1";"Fill";"37";"0";"Fill";"Fill";"2022"
+"544";"Fill_199";"Fill";"Fill";"42";"1";"Fill";"44";"0";"Fill";"Fill";"2022"
+"545";"Fill_200";"Fill";"Fill";"42";"0";"Fill";"44";"0";"Fill";"Fill";"2022"
+"546";"Fill_201";"Fill";"Fill";"42";"-1";"Fill";"44";"0";"Fill";"Fill";"2022"
+"547";"Fill_202";"Fill";"Fill";"43";"-1";"Fill";"45";"0";"Fill";"Fill";"2022"
+"548";"Fill_203";"Fill";"Fill";"43";"0";"Fill";"45";"0";"Fill";"Fill";"2022"
+"549";"Fill_204";"Fill";"Fill";"43";"1";"Fill";"45";"0";"Fill";"Fill";"2022"
+"550";"Fill_205";"Fill";"Fill";"44";"1";"Fill";"46";"0";"Fill";"Fill";"2022"
+"551";"Fill_206";"Fill";"Fill";"44";"0";"Fill";"46";"0";"Fill";"Fill";"2022"
+"552";"Fill_207";"Fill";"Fill";"44";"-1";"Fill";"46";"0";"Fill";"Fill";"2022"
+"553";"Fill_208";"Fill";"Fill";"45";"1";"Fill";"47";"0";"Fill";"Fill";"2022"
+"554";"Fill_209";"Fill";"Fill";"45";"2";"Fill";"47";"0";"Fill";"Fill";"2022"
+"555";"Fill_210";"Fill";"Fill";"45";"3";"Fill";"47";"0";"Fill";"Fill";"2022"
+"556";"Fill_211";"Fill";"Fill";"45";"4";"Fill";"47";"0";"Fill";"Fill";"2022"
+"557";"Fill_212";"Fill";"Fill";"45";"5";"Fill";"47";"0";"Fill";"Fill";"2022"
+"558";"Fill_213";"Fill";"Fill";"45";"6";"Fill";"47";"0";"Fill";"Fill";"2022"
+"559";"Fill_214";"Fill";"Fill";"45";"7";"Fill";"47";"0";"Fill";"Fill";"2022"
+"560";"Fill_215";"Fill";"Fill";"45";"8";"Fill";"47";"0";"Fill";"Fill";"2022"
+"561";"Fill_216";"Fill";"Fill";"45";"9";"Fill";"47";"0";"Fill";"Fill";"2022"
+"562";"Fill_217";"Fill";"Fill";"45";"10";"Fill";"47";"0";"Fill";"Fill";"2022"
+"563";"Fill_218";"Fill";"Fill";"45";"0";"Fill";"47";"0";"Fill";"Fill";"2022"
+"564";"Fill_219";"Fill";"Fill";"45";"-1";"Fill";"47";"0";"Fill";"Fill";"2022"
+"565";"Fill_220";"Fill";"Fill";"46";"-1";"Fill";"48";"0";"Fill";"Fill";"2022"
+"566";"Fill_221";"Fill";"Fill";"46";"0";"Fill";"48";"0";"Fill";"Fill";"2022"
+"567";"Fill_222";"Fill";"Fill";"46";"10";"Fill";"48";"0";"Fill";"Fill";"2022"
+"568";"Fill_223";"Fill";"Fill";"46";"9";"Fill";"48";"0";"Fill";"Fill";"2022"
+"569";"Fill_224";"Fill";"Fill";"46";"8";"Fill";"48";"0";"Fill";"Fill";"2022"
+"570";"Fill_225";"Fill";"Fill";"46";"7";"Fill";"48";"0";"Fill";"Fill";"2022"
+"571";"Fill_226";"Fill";"Fill";"46";"6";"Fill";"48";"0";"Fill";"Fill";"2022"
+"572";"Fill_227";"Fill";"Fill";"46";"5";"Fill";"48";"0";"Fill";"Fill";"2022"
+"573";"Fill_228";"Fill";"Fill";"46";"4";"Fill";"48";"0";"Fill";"Fill";"2022"
+"574";"Fill_229";"Fill";"Fill";"46";"3";"Fill";"48";"0";"Fill";"Fill";"2022"
+"575";"Fill_230";"Fill";"Fill";"46";"2";"Fill";"48";"0";"Fill";"Fill";"2022"
+"576";"Fill_231";"Fill";"Fill";"46";"1";"Fill";"48";"0";"Fill";"Fill";"2022"
+"577";"Fill_232";"Fill";"Fill";"36";"-1";"Fill";"38";"0";"Fill";"Fill";"2022"
+"578";"Fill_233";"Fill";"Fill";"36";"0";"Fill";"38";"0";"Fill";"Fill";"2022"
+"579";"Fill_234";"Fill";"Fill";"36";"1";"Fill";"38";"0";"Fill";"Fill";"2022"
+"580";"Fill_235";"Fill";"Fill";"36";"2";"Fill";"38";"0";"Fill";"Fill";"2022"
+"581";"Fill_236";"Fill";"Fill";"36";"3";"Fill";"38";"0";"Fill";"Fill";"2022"
+"582";"Fill_237";"Fill";"Fill";"36";"4";"Fill";"38";"0";"Fill";"Fill";"2022"
+"583";"Fill_238";"Fill";"Fill";"36";"5";"Fill";"38";"0";"Fill";"Fill";"2022"
+"584";"Fill_239";"Fill";"Fill";"36";"6";"Fill";"38";"0";"Fill";"Fill";"2022"
+"585";"Fill_240";"Fill";"Fill";"36";"7";"Fill";"38";"0";"Fill";"Fill";"2022"
+"586";"Fill_241";"Fill";"Fill";"36";"8";"Fill";"38";"0";"Fill";"Fill";"2022"
+"587";"Fill_242";"Fill";"Fill";"36";"9";"Fill";"38";"0";"Fill";"Fill";"2022"
+"588";"Fill_243";"Fill";"Fill";"36";"10";"Fill";"38";"0";"Fill";"Fill";"2022"
+"589";"Fill_244";"Fill";"Fill";"37";"-1";"Fill";"39";"0";"Fill";"Fill";"2022"
+"590";"Fill_245";"Fill";"Fill";"37";"0";"Fill";"39";"0";"Fill";"Fill";"2022"
+"591";"Fill_246";"Fill";"Fill";"37";"1";"Fill";"39";"0";"Fill";"Fill";"2022"
+"592";"Fill_247";"Fill";"Fill";"37";"2";"Fill";"39";"0";"Fill";"Fill";"2022"
+"593";"Fill_248";"Fill";"Fill";"37";"3";"Fill";"39";"0";"Fill";"Fill";"2022"
+"594";"Fill_249";"Fill";"Fill";"37";"4";"Fill";"39";"0";"Fill";"Fill";"2022"
+"595";"Fill_250";"Fill";"Fill";"37";"5";"Fill";"39";"0";"Fill";"Fill";"2022"
+"596";"Fill_251";"Fill";"Fill";"37";"6";"Fill";"39";"0";"Fill";"Fill";"2022"
+"597";"Fill_252";"Fill";"Fill";"37";"7";"Fill";"39";"0";"Fill";"Fill";"2022"
+"598";"Fill_253";"Fill";"Fill";"37";"8";"Fill";"39";"0";"Fill";"Fill";"2022"
+"599";"Fill_254";"Fill";"Fill";"37";"9";"Fill";"39";"0";"Fill";"Fill";"2022"
+"600";"Fill_255";"Fill";"Fill";"37";"10";"Fill";"39";"0";"Fill";"Fill";"2022"
