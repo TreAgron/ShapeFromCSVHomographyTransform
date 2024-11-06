@@ -26,4 +26,4 @@ The approach can be used to analyse thermal images that were taken during a dron
 
 | ![Image Alt Text](Images/ShapesRawQgis.png) | ![Image Alt Text](Images/ShapesRawQgis.png) |
 |||
-| *Caption 1*                           | *Caption 2*                           |
+| *Caption 1*                            *Caption 2*                           |
