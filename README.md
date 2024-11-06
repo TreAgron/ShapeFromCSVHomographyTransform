@@ -16,5 +16,5 @@ The research was conducted at and financed by [Agroscope](https://www.agroscope.
 This protocol present a pipeline to use multi-view back projection for analyzing thermal images that were taken with a drone. Compared to analyzing thermal images on orthomosaics directly, this approach allows to include effects of measurement time and viewing geometry in the analysis as well as to improve spatial correction of the measurements. Same as for the orthomosaic analysis, images have to be aligned but the analysis is done on single images instead of orthomosaics by means back projection. Aligning the images is only done to orient the single images in space for analysis (georeferencing).
 The approach can be used to analyse thermal images that were taken during a drone mapping campaign of an agricultural plot experiments.
 
-![Example of shape files generated from CSV](Images/ShapesRawQgis.PNG)
+![Example of shape files generated from CSV](Images/ShapesRawQgis.png)
 *Example of shape files generated from CSV.*
