@@ -16,14 +16,18 @@ The research was conducted at and financed by [Agroscope](https://www.agroscope.
 This protocol present a pipeline to use multi-view back projection for analyzing thermal images that were taken with a drone. Compared to analyzing thermal images on orthomosaics directly, this approach allows to include effects of measurement time and viewing geometry in the analysis as well as to improve spatial correction of the measurements. Same as for the orthomosaic analysis, images have to be aligned but the analysis is done on single images instead of orthomosaics by means back projection. Aligning the images is only done to orient the single images in space for analysis (georeferencing).
 The approach can be used to analyse thermal images that were taken during a drone mapping campaign of an agricultural plot experiments.
 
-![Example of shape files generated from CSV](Images/ShapesRawQgis.png)
-*Example of shape files generated from CSV.*
+![Shapes based on a CSV](Images/ShapesFromCSVGenericCRS.png)
+*Shapes generated with a Python script from a CSV file containing meta data*
 
-<figure>
-  <img src="Images/ShapesRawQgis.png" alt="Image" width="200">
-  <figcaption>Example of shape files generated from CSV.</figcaption>
-</figure>
+![Shapes based on a CSV](Images/ShapesFromCSVDefinedCRS.png)
+*Shapes generated with a Python script from a CSV file containing meta data*
 
-| ![Image Alt Text](Images/ShapesRawQgis.png) | ![Image Alt Text](Images/ShapesRawQgis.png) |
-|||
+![Shapes based on a CSV](Images/ShapesFromCSVDefinedCRSRed.png)
+*Shapes generated with a Python script from a CSV file containing meta data*
+
+
+
+
+| ![Image Alt Text](Images/ShapesFromCSVGenericCRS.png) | ![Image Alt Text](Images/ShapesRawQgis.png) |
+|---------------------------------------|---------------------------------------|
 | *Caption 1*                           | *Caption 2*                           |
