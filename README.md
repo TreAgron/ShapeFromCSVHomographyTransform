@@ -19,15 +19,19 @@ The approach can be used to analyse thermal images that were taken during a dron
 ![Shapes based on a CSV](Images/ShapesFromCSVGenericCRS.png)
 *Shapes generated with a Python script from a CSV file containing meta data*
 
-![Shapes based on a CSV](Images/ShapesFromCSVDefinedCRS.png)
-*Shapes generated with a Python script from a CSV file containing meta data*
 
-![Shapes based on a CSV](Images/ShapesFromCSVDefinedCRSRed.png)
-*Shapes generated with a Python script from a CSV file containing meta data*
+taining meta data*
+
+| ![Image Alt Text](Images/ImageCSV.png) | ![Image Alt Text](Images/ShapesMetadata.png) |
+|---------------------------------------|---------------------------------------|
+| *Caption 1*                           | *Caption 2*                           |
 
 
+| ![Image Alt Text](Images/ShapesHomographyTransform.png) | ![Image Alt Text](Images/ShapesSelectedAdjusted.png) |
+|---------------------------------------|---------------------------------------|
+| *Caption 1*                           | *Caption 2*                           |
 
 
-| ![Image Alt Text](Images/ShapesFromCSVGenericCRS.png) | ![Image Alt Text](Images/ShapesRawQgis.png) |
+| ![Image Alt Text](Images/SetLayerCRS.png) | ![Image Alt Text](Images/ShapesFromCSVDefinedCRS.png) |
 |---------------------------------------|---------------------------------------|
 | *Caption 1*                           | *Caption 2*                           |
