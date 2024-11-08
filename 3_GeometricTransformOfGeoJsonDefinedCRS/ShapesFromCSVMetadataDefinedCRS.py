@@ -1,4 +1,7 @@
-# Run in /Users/simon/PycharmProjects/envs/GeoGDALPy39
+# Name: Create a GeoJson with defined coordinate reference system (CRS) from a CSV file with positional arguments and
+# metadata.
+# Author: Simon Treier
+# Date: 2024-11-08
 
 from osgeo import ogr
 import osgeo.osr as osr
@@ -6,77 +9,41 @@ import os
 import pandas as pd
 import numpy as np
 
-# df = pd.read_csv('/Users/simon/PycharmProjects/Scripts/GeoPandas/Innov_22.csv')
+# Input file path
 df = pd.read_csv(r'/Users/simon/Desktop/Agroscope_PhD/Writing/Thesis/GitHubRepos/ShapeFromCSVHomographyTransform/1_CreateGeoJsonFromCSV/ShapesMetadata.csv', sep=";", encoding='latin1')
 df = df.reset_index()  # make sure indexes pair with number of rows
 
-
-# File name
+# Output file path
 outGeoJSONfn = r'/Users/simon/Desktop/Agroscope_PhD/Writing/Thesis/GitHubRepos/ShapeFromCSVHomographyTransform/3_GeometricTransformOfGeoJsonDefinedCRS/ShapesRawDefinedCRS.geojson'
 
-
-
-srs = osr.SpatialReference()
-srs.ImportFromEPSG(2056)
-
-
-# Input Data
+# Definition of the space between rectangles in the units of the defined CRS
 width_rectan = 0.7
-hight_rectan = 4.4
-spacing_width = 0.9
-spacing_hight = 3.5
+height_rectan = 4.4
 
-# Coordinates of the routh position of the field
-lon_offset = 2507555
-lat_offset = 1139303
+# Definition of the space between rectangles in the units of the defined CRS
+buffer_width = 0.9
+buffer_height = 3.5
 
+# Coordinates of the rough position of the experiment in the units of the defined CRS
+lon_offset = 2507555 # longitude
+lat_offset = 1139303 # latitude
 
-border_spacing = 0
-
-x_intersept = border_spacing
-y_intersept = border_spacing
-
-
+# Base shape for the 4-sided shapes is calculated
 base_shape = np.array([
     [0, 0],
     [width_rectan, 0],
-    [width_rectan, hight_rectan],
-    [0, hight_rectan],
+    [width_rectan, height_rectan],
+    [0, height_rectan],
     [0, 0]])
 
-# https://gist.github.com/Socret360/bcefb0f95cfc20800ea3409f40b8bb58
-def get_homography_matrix(source, destination):
-    """ Calculates the entries of the Homography matrix between two sets of matching points.
-    Args
-    ----
-        - `source`: Source points where each point is int (x, y) format.
-        - `destination`: Destination points where each point is int (x, y) format.
-    Returns
-    ----
-        - A numpy array of shape (3, 3) representing the Homography matrix.
-    Raises
-    ----
-        - `source` and `destination` is lew than four points.
-        - `source` and `destination` is of different size.
-    """
-    assert len(source) >= 4, "must provide more than 4 source points"
-    assert len(destination) >= 4, "must provide more than 4 destination points"
-    assert len(source) == len(destination), "source and destination must be of equal length"
-    A = []
-    b = []
-    for i in range(len(source)):
-        s_x, s_y = source[i]
-        d_x, d_y = destination[i]
-        A.append([s_x, s_y, 1, 0, 0, 0, (-d_x)*(s_x), (-d_x)*(s_y)])
-        A.append([0, 0, 0, s_x, s_y, 1, (-d_y)*(s_x), (-d_y)*(s_y)])
-        b += [d_x, d_y]
-    A = np.array(A)
-    h = np.linalg.lstsq(A, b,rcond=None)[0]
-    h = np.concatenate((h, [1]), axis=-1)
-    return np.reshape(h, (3, 3))
+# Create the output shapefile
+GeoJSONDriver = ogr.GetDriverByName("GeoJSON")
+if os.path.exists(outGeoJSONfn):
+    GeoJSONDriver.DeleteDataSource(outGeoJSONfn)
+outDataSource = GeoJSONDriver.CreateDataSource(outGeoJSONfn)
+outLayer = outDataSource.CreateLayer(outGeoJSONfn, geom_type=ogr.wkbPoint)
 
-
-# create fields
+# Define fields to be filled with the metadata attributes of the CSV file
 idField = ogr.FieldDefn('Plot_seq', ogr.OFTString)
 genField = ogr.FieldDefn('Genotype', ogr.OFTString)
 columnField = ogr.FieldDefn('Column', ogr.OFTInteger)
@@ -87,14 +54,7 @@ categoryField = ogr.FieldDefn('Category', ogr.OFTString)
 trialField = ogr.FieldDefn('Trial', ogr.OFTString)
 yearField = ogr.FieldDefn('Year', ogr.OFTString)
 
-
-# Create the output shapefile
-GeoJSONDriver = ogr.GetDriverByName("GeoJSON")
-if os.path.exists(outGeoJSONfn):
-    GeoJSONDriver.DeleteDataSource(outGeoJSONfn)
-outDataSource = GeoJSONDriver.CreateDataSource(outGeoJSONfn)
-outLayer = outDataSource.CreateLayer(outGeoJSONfn, geom_type=ogr.wkbPoint)
-
+# Add the metadata fields to the output layer
 outLayer.CreateField(idField)
 outLayer.CreateField(genField)
 outLayer.CreateField(rowField)
@@ -105,30 +65,18 @@ outLayer.CreateField(categoryField)
 outLayer.CreateField(trialField)
 outLayer.CreateField(yearField)
 
-
-idField = ogr.FieldDefn('Plot_seq', ogr.OFTString)
-genField = ogr.FieldDefn('Genotype', ogr.OFTString)
-columnField = ogr.FieldDefn('Column', ogr.OFTInteger)
-treatmentField = ogr.FieldDefn('Treatment', ogr.OFTString)
-rowField = ogr.FieldDefn('Row', ogr.OFTInteger)
-repField = ogr.FieldDefn('Rep', ogr.OFTInteger)
-categoryField = ogr.FieldDefn('Category', ogr.OFTString)
-trialField = ogr.FieldDefn('Trial', ogr.OFTString)
-yearField = ogr.FieldDefn('Year', ogr.OFTString)
-
-
-
-
+# In a loop, for each entry in the CSV file, coordinates are calculated as based on the "Row" and "Column" arguments of
+# the CSV file and rectangle and buffer dimensions defined above.
 for index, row in df.iterrows():
     print(row['Plot_seq'], row['Genotype'], row['Row'], row['Column'], row['Treatment'], row['Rep'], row['Category'],
           row['Trial'], row['Year'])
 
-
-    x_internal = [x_intersept + ((width_rectan + spacing_width) * (int(row['Row'])-1)) + cord[0] + lon_offset for cord in base_shape]
-    y_internal = [y_intersept + ((hight_rectan + spacing_hight) * (12-int(row['Column']))) + cord[1] + lat_offset for cord in base_shape]
+    # Calculate coordinates of the ne shape
+    x_internal = [((width_rectan + buffer_width) * (int(row['Row'])-1)) + cord[0] + lon_offset for cord in base_shape]
+    y_internal = [((height_rectan + buffer_height) * (12-int(row['Column']))) + cord[1] + lat_offset for cord in base_shape]
     print(x_internal)
 
-    # Create ring
+    # Create a ring geometry from coordinates
     square = ogr.Geometry(ogr.wkbLinearRing)
     square.AddPoint(float(x_internal[0]), float(y_internal[0]))
     square.AddPoint(float(x_internal[1]), float(y_internal[1]))
@@ -136,13 +84,12 @@ for index, row in df.iterrows():
     square.AddPoint(float(x_internal[3]), float(y_internal[3]))
     square.AddPoint(float(x_internal[4]), float(y_internal[4]))
 
-    # Create polygon
+    # Create polygon from ring geometry
     polygon = ogr.Geometry(ogr.wkbPolygon)
     polygon.AddGeometry(square)
     print(polygon.ExportToWkt())
 
-
-    # Create the feature and set values
+    # Populate metadata fields with values from the CSV
     featureDefn = outLayer.GetLayerDefn()
     outFeature = ogr.Feature(featureDefn)
     outFeature.SetGeometry(polygon)
@@ -156,10 +103,7 @@ for index, row in df.iterrows():
     outFeature.SetField('Trial', row['Trial'])
     outFeature.SetField('Year', row['Year'])
 
-
-
     outLayer.CreateFeature(outFeature)
-
 
     # dereference the feature
     outFeature = None

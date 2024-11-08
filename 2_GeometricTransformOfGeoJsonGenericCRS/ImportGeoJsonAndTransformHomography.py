@@ -1,4 +1,7 @@
-# Run in /Users/simon/PycharmProjects/envs/GeoGDALPy39
+# Name: Transform orthogonal shapes to perspective adjusted shapes by estimating a homography based on 4 corresponding
+# points.
+# Author: Simon Treier
+# Date: 2024-11-08
 
 from osgeo import ogr
 import os
@@ -6,29 +9,36 @@ import pandas as pd
 import numpy as np
 import json
 
-# Use json instead of geopandes (which canot be installed at the moment om mac m1) because it lets you write without
-# bothering about the CRS (which is useful when working on images).
+# Use json instead of geopandas because it lets you write without bothering about the CRS, which is useful when working
+# on images.
 
-
+# Input file path
 path = r'/Users/simon/Desktop/Agroscope_PhD/Writing/Thesis/GitHubRepos/ShapeFromCSVHomographyTransform/1_CreateGeoJsonFromCSV/ShapesRawGenericCRS.geojson'
 
+# Output file path
 output_path = r'/Users/simon/Desktop/Agroscope_PhD/Writing/Thesis/GitHubRepos/ShapeFromCSVHomographyTransform/2_GeometricTransformOfGeoJsonGenericCRS/ShapesHomographyTransform.geojson'
 
-# Order of coordinates is X and Y
+# 4 corresponding points must be defined to estimate the homography.
+# Input coordinates refer to coordinates of the orthogonal shapes.
+# Output coordinates refer to coordinates of the image.
+# Point "input_bottom_left" must correspond to "output_bottom_left" etc. The coordinates are in tuples where the first
+# number corresponds to the X coordinate and the second number to Y.
 
-input_bottom_left = [-111.2,256.6]
-input_bottom_right = [1955.9,255.3]
-input_top_right = [1955.6,2611.6]
-input_top_left = [-108.0,2610.2]
+# 4 input coordinates of the orthogonal shapes.
+input_bottom_left = [-121.2,246.6]
+input_bottom_right = [1945.9,245.3]
+input_top_right = [1945.6,2601.6]
+input_top_left = [-118.0,2600.2]
 
+# 4 output coordinates of the image.
 output_bottom_left = [933.6,-1525.0]
 output_bottom_right = [3349.8,-1641.1]
 output_top_right = [2128.6,-743.7]
 output_top_left = [1081.1,-465.7]
 
 
-
-def get_homography_matrix(source, destination):
+# This part was taken from Lee Socretquuliqaa's GitHub repository: https://gist.github.com/Socret360/bcefb0f95cfc20800ea3409f40b8bb58
+def get_homography_matrix(source, destination): # Function to calculate homography matrix
     """ Calculates the entries of the Homography matrix between two sets of matching points.
     Args
     ----
@@ -77,21 +87,19 @@ if __name__ == "__main__":
 
     h = get_homography_matrix(source_points, destination_points)
 
-
+# Estimate the homography h
 h = get_homography_matrix(source_points, destination_points)
 
 print(h)
 
+# Open the GeoJson
 with open(path) as f:
     data = json.load(f)
 
-x_coords = []
-y_coords = []
 for feature in data['features']:
     #print(feature['geometry']['coordinates'])
     for point in feature['geometry']['coordinates'][0]:
-        x_coords.append(point[0])
-        y_coords.append(point[1])
+
         point_coords = [point[0], point[1], 1]
         point_coords_transformed = np.dot(h, point_coords)
         point_coords_transformed = point_coords_transformed / point_coords_transformed[2]
