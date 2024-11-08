@@ -52,7 +52,7 @@ If shapes are needed for the analysis of aerial imagery, they might need to be i
 
 This page provides a very general overview. The procedures are described with more technical detail in the respective folders.
 
-#### 3_GeometricTransformOfGeoJsonDefinedCRS
+#### QGIS for visualising and editing the shapes
 
 For visualisation of the single steps of this repository, we used QGIS. An example QGIS file *QgisOverview.qgz* is provided with this repository. After cloning the repository, QGIS will ask for adjusted paths to the layer files. Those need to be set manually but can all found within the repository.
 
