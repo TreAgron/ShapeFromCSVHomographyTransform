@@ -30,7 +30,7 @@ extent_top_left = [0, 0]
 
 
 width_rectan = (extent_top_right[0] - extent_bottom_left[0]) / (np.max(df['Row'])) - 2*spacing_width
-hight_rectan = (extent_top_right[1] - extent_bottom_left[1]) / (np.max(df['Range'])) - 2*spacing_hight
+hight_rectan = (extent_top_right[1] - extent_bottom_left[1]) / (np.max(df['Column'])) - 2*spacing_hight
 
 base_shape = np.array([
     [0, 0],
@@ -73,10 +73,9 @@ def get_homography_matrix(source, destination):
 # create fields
 idField = ogr.FieldDefn('Plot_seq', ogr.OFTString)
 genField = ogr.FieldDefn('Genotype', ogr.OFTString)
-rowField = ogr.FieldDefn('row', ogr.OFTInteger)
-rangeField = ogr.FieldDefn('range', ogr.OFTInteger)
+columnField = ogr.FieldDefn('Column', ogr.OFTInteger)
 treatmentField = ogr.FieldDefn('Treatment', ogr.OFTString)
-rowinfieldField = ogr.FieldDefn('Row_in_Field', ogr.OFTInteger)
+rowField = ogr.FieldDefn('Row', ogr.OFTInteger)
 repField = ogr.FieldDefn('Rep', ogr.OFTInteger)
 categoryField = ogr.FieldDefn('Category', ogr.OFTString)
 trialField = ogr.FieldDefn('Trial', ogr.OFTString)
@@ -93,9 +92,8 @@ outLayer = outDataSource.CreateLayer(outGeoJSONfn, geom_type=ogr.wkbPoint)
 outLayer.CreateField(idField)
 outLayer.CreateField(genField)
 outLayer.CreateField(rowField)
-outLayer.CreateField(rangeField)
+outLayer.CreateField(columnField)
 outLayer.CreateField(treatmentField)
-outLayer.CreateField(rowinfieldField)
 outLayer.CreateField(repField)
 outLayer.CreateField(categoryField)
 outLayer.CreateField(trialField)
@@ -104,10 +102,9 @@ outLayer.CreateField(yearField)
 
 idField = ogr.FieldDefn('Plot_seq', ogr.OFTString)
 genField = ogr.FieldDefn('Genotype', ogr.OFTString)
-rowField = ogr.FieldDefn('row', ogr.OFTInteger)
-rangeField = ogr.FieldDefn('range', ogr.OFTInteger)
+rowField = ogr.FieldDefn('Row', ogr.OFTInteger)
+columnField = ogr.FieldDefn('Column', ogr.OFTInteger)
 treatmentField = ogr.FieldDefn('Treatment', ogr.OFTString)
-rowinfieldField = ogr.FieldDefn('Row_in_Field', ogr.OFTInteger)
 repField = ogr.FieldDefn('Rep', ogr.OFTInteger)
 categoryField = ogr.FieldDefn('Category', ogr.OFTString)
 trialField = ogr.FieldDefn('Trial', ogr.OFTString)
@@ -115,11 +112,11 @@ yearField = ogr.FieldDefn('Year', ogr.OFTString)
 
 
 for index, row in df.iterrows():
-    print(row['Plot_seq'], row['Genotype'], row['Row'], row['Range'], row['Treatment'], row['Row_in_Field'], row['Rep'], row['Category'],
+    print(row['Plot_seq'], row['Genotype'], row['Row'], row['Column'], row['Treatment'], row['Rep'], row['Category'],
           row['Trial'], row['Year'])
 
-    x_internal = [x_intersept + ((width_rectan + spacing_width) * (34-int(row['Row_in_Field'])-1)) + cord[0] for cord in base_shape]
-    y_internal = [y_intersept + ((hight_rectan + spacing_hight) * (int(row['Range']))) + cord[1] for cord in base_shape]
+    x_internal = [x_intersept + ((width_rectan + spacing_width) * (34-int(row['Row'])-1)) + cord[0] for cord in base_shape]
+    y_internal = [y_intersept + ((hight_rectan + spacing_hight) * (int(row['Column']))) + cord[1] for cord in base_shape]
     print(x_internal)
 
     # Create ring
@@ -143,9 +140,8 @@ for index, row in df.iterrows():
     outFeature.SetField('Plot_seq', row['Plot_seq'])
     outFeature.SetField('Genotype', row['Genotype'])
     outFeature.SetField('row', row['Row'])
-    outFeature.SetField('range', row['Range'])
+    outFeature.SetField('Column', row['Column'])
     outFeature.SetField('Treatment', row['Treatment'])
-    outFeature.SetField('Row_in_Field', row['Row_in_Field'])
     outFeature.SetField('Rep', row['Rep'])
     outFeature.SetField('Category', row['Category'])
     outFeature.SetField('Trial', row['Trial'])
